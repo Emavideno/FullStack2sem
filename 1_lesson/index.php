@@ -2,7 +2,7 @@
 
 echo "<h1>Добрый день, ";
 
-$role = $_GET['role'];
+$role = $_GET['role'] ?? ' ';
 if ($role == 'admin') {
     $safeRole = htmlspecialchars($role, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
     echo "$safeRole ";
