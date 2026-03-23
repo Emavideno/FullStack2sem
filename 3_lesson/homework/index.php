@@ -23,9 +23,9 @@ $routes_get = [
         echo '
         <h1>Форма входа</h1>
         <form method="POST" action="/form">
-            <input name="login" placeholder="Логин">
+            <input name="login" placeholder="Логин" required placeholder="Введите Логин">
             <br><br>
-            <input type="password" name="pass" placeholder="Пароль">
+            <input type="password" name="password" placeholder="Пароль" required placeholder="Введите Пароль">
             <br><br>
             <input type="submit" value="Войти">
         </form>
@@ -35,12 +35,12 @@ $routes_get = [
 
 $routes_post = [
     '/form' => function() {
-        $login = $_POST['login'] ?? '';
-        $pass = $_POST['pass'] ?? '';
+        $login = htmlspecialchars($_POST['login'] ?? '');
+        $password = htmlspecialchars($_POST['password'] ?? '');
         
         echo "<h1>Успешно</h1>";
-        echo "<p>Логин: " . htmlspecialchars($login) . "</p>";
-        echo "<p>Пароль: " . htmlspecialchars($pass) . "</p>";
+        echo "<p>Логин: $login </p>";
+        echo "<p>Пароль: $password</p>";
     }
 ];
 
@@ -52,5 +52,3 @@ if (isset($routes[$path])) {
     http_response_code(404);
     echo "<h1>404 - Страница не найдена</h1>";
 }
-
-?>
