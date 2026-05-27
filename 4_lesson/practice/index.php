@@ -5,8 +5,8 @@ session_start();
 $user_id = isset($_SESSION['user_id']);
 $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
-if (!$user_id && $path == '/lenta') {
-    $_SESSION['flash'] = ['error' => 'Авторизуйтесь']; //Устанавливаем флэш-сообщения
+if (!$user_id && $path != '/register') {
+    $_SESSION['flash'] = ['error' => 'Авторизуйтесь'];    //  Устанавливаем флэш-сообщения
     header('Location: /register');
     exit;
 }
@@ -18,7 +18,7 @@ if ($user_id && $path == '/lenta') {
     echo "<br>";
     echo $_SESSION['sleepTime'];
     echo "<br>";
-    unset($_SESSION['user_id']); // =============
+    // unset($_SESSION['user_id']);    // =============
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -48,7 +48,6 @@ echo $_SESSION['error'] ?? '';
 unset($_SESSION['error']);
 
 ?>
-
 <form action="/register" method="POST">
     <input type="text" name="familia" required placeholder="Введите Фамилию">
     <textarea name="about">Расскажите о себе</textarea>

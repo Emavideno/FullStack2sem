@@ -1,0 +1,26 @@
+{
+    "name": "fantast/semester-project",
+    "description": "IT News website",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "vlucas/phpdotenv": "^5.6",
+        "monolog/monolog": "^3.10",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0",
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload-dev": {
+    "psr-4": {
+        "Tests\\": "tests/"
+    }
+}
+}

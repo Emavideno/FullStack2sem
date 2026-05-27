@@ -43,11 +43,8 @@ if ($path === '/') {
     if (isset($products[$id])) {
         $cart->add($products[$id], 1);
 
-        $items = [];
-        foreach ($cart->getItems() as $item) {
-            $items[$item['product']->getId()] = $item['quantity'];
-        }
-        $_SESSION['cart'] = $items;
+        $_SESSION['cart'][$id] ??= 0;
+        $_SESSION['cart'][$id] += 1;
     }
 
     header("Location: /");
@@ -89,11 +86,7 @@ if ($path === '/') {
     if ($id !== null) {
         $cart->remove((int)$id);
 
-        $items = [];
-        foreach ($cart->getItems() as $item) {
-            $items[$item['product']->getId()] = $item['quantity'];
-        }
-        $_SESSION['cart'] = $items;
+        unset($_SESSION['cart'][$id]);
     }
 
     header("Location: /cart");

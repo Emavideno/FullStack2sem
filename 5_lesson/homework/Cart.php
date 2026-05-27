@@ -7,9 +7,12 @@ class Cart {
         $id = $product->getId();
 
         if (isset($this->items[$id])) {
-            $this->items[$id] += $quantity;
+            $this->items[$id]['quantity'] += $quantity;
         } else {
-            $this->items[$id] = $quantity;
+            $this->items[$id] = [
+                'product' => $product,
+                'quantity' => $quantity
+            ];
         }
     }
 
