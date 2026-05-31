@@ -1,4 +1,5 @@
 <?php
+
 return [
     'db' => [
         'host' => $_ENV['DB_HOST'] ?? 'localhost',

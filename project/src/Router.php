@@ -1,5 +1,9 @@
 <?php
+
 namespace App;
+
+use Nyholm\Psr7\ServerRequest;
+use Nyholm\Psr7\Factory\Psr17Factory;
 
 class Router
 {
@@ -7,19 +11,17 @@ class Router
     private string $requestMethod;
     private string $requestUri;
 
-    public function __construct()
+    public function __construct(?string $requestMethod = null, ?string $requestUri = null)
     {
-        $this->requestMethod = $_SERVER['REQUEST_METHOD'];
-        $this->requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+        $this->requestMethod = $requestMethod ?? $_SERVER['REQUEST_METHOD'];
+        $this->requestUri = $requestUri ?? parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
-        // Корректировка пути
         $basePath = str_replace('/index.php', '', $_SERVER['SCRIPT_NAME']);
         if ($basePath !== '/' && strpos($this->requestUri, $basePath) === 0) {
             $this->requestUri = substr($this->requestUri, strlen($basePath));
         }
         $this->requestUri = $this->requestUri ?: '/';
 
-        // Сканируем контроллеры и ищем атрибуты Route
         $this->scanControllers();
     }
 
@@ -59,7 +61,7 @@ class Router
         }
     }
 
-    public function dispatch(): void
+    public function dispatch(): \Nyholm\Psr7\Response
     {
         $uri = rtrim($this->requestUri, '/');
         if ($uri === '') {
@@ -67,8 +69,7 @@ class Router
         }
 
         if (!isset($this->routes[$this->requestMethod])) {
-            $this->sendNotFound();
-            return;
+            return $this->createErrorResponse(404, '404 - Страница не найдена');
         }
 
         foreach ($this->routes[$this->requestMethod] as $route) {
@@ -82,30 +83,61 @@ class Router
 
                 $controller = new $route['controller']();
                 $request = $this->createRequestObject($params);
+
                 $controller->{$route['action']}($request);
-                return;
+
+                return new \Nyholm\Psr7\Response(200);
             }
         }
 
-        $this->sendNotFound();
+        return $this->createErrorResponse(404, '404 - Страница не найдена');
     }
 
-    private function createRequestObject(array $routeParams): array
+    private function createRequestObject(array $routeParams): ServerRequest
     {
-        return [
-            'method' => $this->requestMethod,
-            'uri' => $this->requestUri,
-            'get' => $_GET,
-            'post' => $_POST,
-            'body' => file_get_contents('php://input'),
-            'routeParams' => $routeParams,
-            'server' => $_SERVER
-        ];
+        $factory = new Psr17Factory();
+        $request = $factory->createServerRequest($_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI']);
+        $request = $request->withAttribute('routeParams', $routeParams);
+        $request = $request->withQueryParams($_GET);
+        $request = $request->withParsedBody($_POST);
+        $request = $request->withHeader('Content-Type', $_SERVER['CONTENT_TYPE'] ?? '');
+
+        return $request;
     }
 
-    private function sendNotFound(): void
+    public function createRequest(array $routeParams = []): ServerRequest
     {
-        http_response_code(404);
-        echo "404 - Страница не найдена";
+        return $this->createRequestObject($routeParams);
+    }
+
+    private function createErrorResponse(int $code, string $message): \Nyholm\Psr7\Response
+    {
+        http_response_code($code);
+
+        if ($code === 404) {
+            $logger = \App\Logger\LoggerFactory::create();
+            $logger->warning('404 Not Found', [
+                'uri' => $_SERVER['REQUEST_URI'],
+                'ip' => $_SERVER['REMOTE_ADDR'] ?? 'unknown'
+            ]);
+        }
+
+        echo $message;
+        return new \Nyholm\Psr7\Response($code, ['Content-Type' => 'text/html'], $message);
+    }
+
+    public function getRoutes(): array
+    {
+        return $this->routes;
+    }
+
+    public function getRequestMethod(): string
+    {
+        return $this->requestMethod;
+    }
+
+    public function createErrorResponsePublic(int $code, string $message): \Nyholm\Psr7\Response
+    {
+        return $this->createErrorResponse($code, $message);
     }
 }

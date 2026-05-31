@@ -1,5 +1,9 @@
 <?php
+
 namespace App;
+
+use Nyholm\Psr7\ServerRequest;
+use Psr\Http\Message\ServerRequestInterface;
 
 abstract class AbstractController
 {
@@ -7,7 +11,7 @@ abstract class AbstractController
     {
         extract($data);
         $viewFile = __DIR__ . '/../views/' . $view . '.php';
-        
+
         if (file_exists($viewFile)) {
             require $viewFile;
         } else {
@@ -15,17 +19,23 @@ abstract class AbstractController
         }
     }
 
-    protected function getParam(array $request, string $key, $default = null)
+    protected function getParam(ServerRequest $request, string $key, $default = null)
     {
-        if (isset($request['routeParams'][$key])) {
-            return $request['routeParams'][$key];
+        $routeParams = $request->getAttribute('routeParams', []);
+        if (isset($routeParams[$key])) {
+            return $routeParams[$key];
         }
-        if (isset($request['get'][$key])) {
-            return $request['get'][$key];
+
+        $queryParams = $request->getQueryParams();
+        if (isset($queryParams[$key])) {
+            return $queryParams[$key];
         }
-        if (isset($request['post'][$key])) {
-            return $request['post'][$key];
+
+        $parsedBody = $request->getParsedBody();
+        if (is_array($parsedBody) && isset($parsedBody[$key])) {
+            return $parsedBody[$key];
         }
+
         return $default;
     }
 
@@ -33,5 +43,43 @@ abstract class AbstractController
     {
         http_response_code($statusCode);
         echo $message;
+    }
+
+    protected function redirect(string $url): void
+    {
+        header("Location: {$url}");
+        exit;
+    }
+
+    protected function renderPartial(string $view, array $data = []): string
+    {
+        extract($data);
+        ob_start();
+        $viewFile = __DIR__ . '/../views/' . $view . '.php';
+        if (file_exists($viewFile)) {
+            require $viewFile;
+        }
+        return ob_get_clean();
+    }
+
+    protected function jsonResponse(array $data, int $statusCode = 200): void
+    {
+        http_response_code($statusCode);
+        header('Content-Type: application/json');
+        echo json_encode($data);
+    }
+
+    protected function getJsonData(ServerRequest $request): ?array
+    {
+        $body = $request->getBody()->getContents();
+        $data = json_decode($body, true);
+        $request->getBody()->rewind();
+        return $data;
+    }
+
+    protected function getPostData(ServerRequestInterface $request): array
+    {
+        $parsedBody = $request->getParsedBody();
+        return is_array($parsedBody) ? $parsedBody : [];
     }
 }

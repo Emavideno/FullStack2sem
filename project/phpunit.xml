@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Project Test Suite">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+    <source>
+        <include>
+            <directory suffix=".php">src</directory>
+        </include>
+        <exclude>
+            <directory>src/Controllers</directory>
+            <directory>src/Views</directory>
+            <directory>src/Middleware</directory>
+            <directory>src/Services</directory>
+            <directory>src/Logger</directory>
+        </exclude>
+    </source>
+</phpunit>

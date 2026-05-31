@@ -1,11 +1,34 @@
 <?php
-require_once __DIR__ . '/../vendor/autoload.php';
 
-use Dotenv\Dotenv;
+$config = require __DIR__ . '/../bootstrap.php';
+
 use App\Router;
+use App\Middleware\AuthMiddleware;
+use App\Middleware\MiddlewareDispatcher;
+use App\Middleware\RequestHandler;
+use App\Middleware\RequestLoggerMiddleware;
 
-$dotenv = Dotenv::createImmutable(__DIR__ . '/../config');
-$dotenv->load();
+AuthMiddleware::check();
 
 $router = new Router();
-$router->dispatch();
+
+$requestHandler = new RequestHandler(function ($request) use ($router) {
+    return $router->dispatch();
+});
+
+$middlewares = [];
+
+if ($config['debug']) {
+    $middlewares[] = new RequestLoggerMiddleware(null, true);
+}
+
+$dispatcher = new MiddlewareDispatcher($middlewares, $requestHandler);
+
+$tempRouter = new Router();
+$request = $tempRouter->createRequest([]);
+$response = $dispatcher->handle($request);
+
+if ($response && $response->getStatusCode() !== 200) {
+    http_response_code($response->getStatusCode());
+    echo $response->getBody();
+}

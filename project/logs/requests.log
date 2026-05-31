@@ -1,0 +1,3552 @@
+[2026-05-30 14:54:30] GET / | IP: ::1
+  → Выполнено за 111.86 ms
+[2026-05-30 14:54:30] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-30 14:54:30] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.9 ms
+[2026-05-30 14:54:30] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 5.22 ms
+[2026-05-30 14:54:30] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-30 14:54:30] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 10.26 ms
+[2026-05-30 14:54:31] POST /api/news/13/react | IP: ::1
+  → Выполнено за 24.46 ms
+[2026-05-30 14:54:32] POST /api/news/13/react | IP: ::1
+  → Выполнено за 25.95 ms
+[2026-05-30 14:54:32] POST /api/news/13/react | IP: ::1
+  → Выполнено за 125.91 ms
+[2026-05-30 14:54:33] POST /api/news/13/react | IP: ::1
+  → Выполнено за 30.81 ms
+[2026-05-30 14:54:34] GET /news/13 | IP: ::1
+  → Выполнено за 27.16 ms
+[2026-05-30 14:54:34] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-30 14:54:36] GET /logout | IP: ::1
+[2026-05-30 14:54:36] GET /login | IP: ::1
+  → Выполнено за 4.4 ms
+[2026-05-30 14:54:40] GET /login | IP: ::1
+  → Выполнено за 1.47 ms
+[2026-05-30 14:54:44] GET /login | IP: ::1
+  → Выполнено за 1.36 ms
+[2026-05-30 14:54:47] GET /login | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-30 14:54:49] GET /login | IP: ::1
+  → Выполнено за 1.46 ms
+[2026-05-30 14:54:55] GET /login | IP: ::1
+  → Выполнено за 2.06 ms
+[2026-05-30 14:54:58] GET /register | IP: ::1
+  → Выполнено за 16.17 ms
+[2026-05-30 14:55:00] GET /login | IP: ::1
+  → Выполнено за 1.63 ms
+[2026-05-30 14:55:11] POST /login | IP: ::1
+[2026-05-30 14:55:12] GET / | IP: ::1
+  → Выполнено за 13.27 ms
+[2026-05-30 14:55:12] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 11.69 ms
+[2026-05-30 14:55:12] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 5.98 ms
+[2026-05-30 14:55:12] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 8.28 ms
+[2026-05-30 14:55:12] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 5.25 ms
+[2026-05-30 14:55:12] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 36.77 ms
+[2026-05-30 14:55:20] GET /admin/news | IP: ::1
+  → Выполнено за 8.33 ms
+[2026-05-30 14:55:23] GET /news/13 | IP: ::1
+  → Выполнено за 50.87 ms
+[2026-05-30 14:55:23] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 7 ms
+[2026-05-30 14:55:26] GET /admin/news/edit/13 | IP: ::1
+  → Выполнено за 35.02 ms
+[2026-05-30 14:55:29] GET /admin/news | IP: ::1
+  → Выполнено за 9.12 ms
+[2026-05-30 14:55:30] GET /admin/news/create | IP: ::1
+  → Выполнено за 5.94 ms
+[2026-05-30 14:55:32] GET /admin/news | IP: ::1
+  → Выполнено за 12.91 ms
+[2026-05-30 14:55:33] GET /admin/comments | IP: ::1
+  → Выполнено за 6.94 ms
+[2026-05-30 14:55:35] GET /admin/news | IP: ::1
+  → Выполнено за 4.9 ms
+[2026-05-30 14:55:38] GET / | IP: ::1
+  → Выполнено за 5.18 ms
+[2026-05-30 14:55:38] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 5.5 ms
+[2026-05-30 14:55:38] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.75 ms
+[2026-05-30 14:55:38] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 8.19 ms
+[2026-05-30 14:55:38] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 3.5 ms
+[2026-05-30 14:55:38] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 49.4 ms
+[2026-05-30 14:55:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.03 ms
+[2026-05-30 14:55:40] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 6.77 ms
+[2026-05-30 14:55:40] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-30 14:55:40] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.33 ms
+[2026-05-30 14:55:42] GET /search?q=12 | IP: ::1
+  → Выполнено за 10.11 ms
+[2026-05-30 14:55:42] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 141.41 ms
+[2026-05-30 14:55:42] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 2.39 ms
+[2026-05-30 14:55:42] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 7.79 ms
+[2026-05-30 14:55:42] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 2.93 ms
+[2026-05-30 14:55:42] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 8.01 ms
+[2026-05-30 14:55:44] GET /search?q=12&page=2 | IP: ::1
+  → Выполнено за 4.03 ms
+[2026-05-30 14:55:44] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 2.79 ms
+[2026-05-30 15:15:22] GET / | IP: ::1
+  → Выполнено за 41.61 ms
+[2026-05-30 15:15:22] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 5.94 ms
+[2026-05-30 15:15:22] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 49.18 ms
+[2026-05-30 15:15:23] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 36.71 ms
+[2026-05-30 15:15:23] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 9.9 ms
+[2026-05-30 15:15:23] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 16.78 ms
+[2026-05-30 15:15:24] POST /api/news/13/react | IP: ::1
+  → Выполнено за 15.12 ms
+[2026-05-30 15:15:33] POST /api/news/11/react | IP: ::1
+  → Выполнено за 13.62 ms
+[2026-05-30 15:15:35] GET /news/13 | IP: ::1
+  → Выполнено за 23.98 ms
+[2026-05-30 15:15:35] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 14.32 ms
+[2026-05-30 15:15:38] POST /api/news/13/comment | IP: ::1
+  → Выполнено за 225.01 ms
+[2026-05-30 15:15:39] GET / | IP: ::1
+  → Выполнено за 4.85 ms
+[2026-05-30 15:15:39] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 47.47 ms
+[2026-05-30 15:15:39] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 6.43 ms
+[2026-05-30 15:15:39] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 9.44 ms
+[2026-05-30 15:15:39] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 4.17 ms
+[2026-05-30 15:15:39] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 7.98 ms
+[2026-05-30 15:15:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.63 ms
+[2026-05-30 15:15:40] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 13.93 ms
+[2026-05-30 15:15:40] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-30 15:15:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 10.31 ms
+[2026-05-30 15:15:40] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.03 ms
+[2026-05-30 15:15:40] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 2.71 ms
+[2026-05-30 15:15:41] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 7.16 ms
+[2026-05-30 15:15:42] GET /news/6 | IP: ::1
+  → Выполнено за 7.97 ms
+[2026-05-30 15:15:43] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.47 ms
+[2026-05-30 15:15:43] GET / | IP: ::1
+  → Выполнено за 18.06 ms
+[2026-05-30 15:15:43] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 27.12 ms
+[2026-05-30 15:15:44] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.75 ms
+[2026-05-30 15:15:44] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 4.14 ms
+[2026-05-30 15:15:44] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 3.49 ms
+[2026-05-30 15:15:44] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 19.1 ms
+[2026-05-30 15:15:44] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.09 ms
+[2026-05-30 15:15:44] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.49 ms
+[2026-05-30 15:15:45] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 5.43 ms
+[2026-05-30 15:15:45] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 5.78 ms
+[2026-05-30 15:15:46] GET /search?q=12 | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-30 15:15:46] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 709.56 ms
+[2026-05-30 15:15:47] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 72.02 ms
+[2026-05-30 15:15:47] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 56.22 ms
+[2026-05-30 15:15:47] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 70.61 ms
+[2026-05-30 15:15:47] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 33.84 ms
+[2026-05-30 15:15:48] GET /search?q=12&page=2 | IP: ::1
+  → Выполнено за 9.02 ms
+[2026-05-30 15:15:49] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 17.42 ms
+[2026-05-30 15:15:50] GET / | IP: ::1
+  → Выполнено за 9.15 ms
+[2026-05-30 15:15:50] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 9.96 ms
+[2026-05-30 15:15:50] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 9.68 ms
+[2026-05-30 15:15:50] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 42.9 ms
+[2026-05-30 15:15:50] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 5.04 ms
+[2026-05-30 15:15:50] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 23.4 ms
+[2026-05-30 15:15:59] GET /admin/news | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-30 15:16:03] GET /logout | IP: ::1
+[2026-05-30 15:16:03] GET /login | IP: ::1
+  → Выполнено за 7.8 ms
+[2026-05-30 15:16:04] GET /login | IP: ::1
+  → Выполнено за 1.34 ms
+[2026-05-30 15:16:13] GET /login | IP: ::1
+  → Выполнено за 1.4 ms
+[2026-05-30 15:16:16] POST /login | IP: ::1
+[2026-05-30 15:16:17] GET / | IP: ::1
+  → Выполнено за 4.53 ms
+[2026-05-30 15:16:17] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 34.6 ms
+[2026-05-30 15:16:17] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 79.85 ms
+[2026-05-30 15:16:17] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-30 15:16:17] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 8.63 ms
+[2026-05-30 15:16:18] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.44 ms
+[2026-05-30 15:16:19] GET /admin/news | IP: ::1
+[2026-05-30 15:16:19] GET / | IP: ::1
+  → Выполнено за 5.3 ms
+[2026-05-30 15:16:19] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 3.52 ms
+[2026-05-30 15:16:19] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 6.38 ms
+[2026-05-30 15:16:19] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 7.54 ms
+[2026-05-30 15:16:20] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 9.31 ms
+[2026-05-30 15:16:20] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 7.69 ms
+[2026-05-30 15:16:21] GET /news/13 | IP: ::1
+  → Выполнено за 28.95 ms
+[2026-05-30 15:16:21] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 87.17 ms
+[2026-05-30 15:16:22] GET / | IP: ::1
+  → Выполнено за 4.66 ms
+[2026-05-30 15:16:22] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 8.24 ms
+[2026-05-30 15:16:22] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 34.38 ms
+[2026-05-30 15:16:22] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-30 15:16:22] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-30 15:16:22] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 7.77 ms
+[2026-05-30 15:16:26] GET /login | IP: ::1
+  → Выполнено за 1.36 ms
+[2026-05-30 15:16:31] GET / | IP: ::1
+  → Выполнено за 7.78 ms
+[2026-05-30 15:16:31] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 8.32 ms
+[2026-05-30 15:16:31] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 6.56 ms
+[2026-05-30 15:16:31] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-30 15:16:31] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-30 15:16:31] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 6.99 ms
+[2026-05-30 15:16:35] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.83 ms
+[2026-05-30 15:16:36] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 8.72 ms
+[2026-05-30 15:16:36] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-30 15:16:36] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 5.79 ms
+[2026-05-30 15:16:36] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-30 15:16:36] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-30 15:16:36] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.51 ms
+[2026-05-30 15:16:36] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-30 15:16:36] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-30 15:16:37] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.86 ms
+[2026-05-30 15:16:37] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.51 ms
+[2026-05-30 15:16:38] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.87 ms
+[2026-05-30 15:16:38] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 9.47 ms
+[2026-05-30 15:16:38] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.52 ms
+[2026-05-30 15:16:38] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 34.88 ms
+[2026-05-30 15:16:39] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.36 ms
+[2026-05-30 15:16:39] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 7.21 ms
+[2026-05-30 15:16:39] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 5.65 ms
+[2026-05-30 15:16:39] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-30 15:16:39] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 41.11 ms
+[2026-05-30 15:16:39] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 6.02 ms
+[2026-05-30 15:16:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-30 15:16:40] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.96 ms
+[2026-05-30 15:16:40] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-30 15:16:40] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-30 15:16:40] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-30 15:16:40] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 6.19 ms
+[2026-05-30 15:16:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.42 ms
+[2026-05-30 15:16:41] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-30 15:16:41] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.05 ms
+[2026-05-30 15:16:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.27 ms
+[2026-05-30 15:16:41] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.91 ms
+[2026-05-30 15:16:42] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 50.54 ms
+[2026-05-30 15:16:42] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 8.49 ms
+[2026-05-30 15:16:42] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-30 15:16:42] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 10.65 ms
+[2026-05-30 15:16:43] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.78 ms
+[2026-05-30 15:16:43] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 7.58 ms
+[2026-05-30 15:16:43] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 4.19 ms
+[2026-05-30 15:16:43] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 7.29 ms
+[2026-05-30 15:16:43] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 3.42 ms
+[2026-05-30 15:16:43] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-30 15:16:44] GET /news/9 | IP: ::1
+  → Выполнено за 43.01 ms
+[2026-05-30 15:16:44] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 6.61 ms
+[2026-05-30 15:16:45] GET / | IP: ::1
+  → Выполнено за 10.49 ms
+[2026-05-30 15:16:45] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 13.31 ms
+[2026-05-30 15:16:45] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 7.65 ms
+[2026-05-30 15:16:45] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 9.21 ms
+[2026-05-30 15:16:46] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 55.97 ms
+[2026-05-30 15:16:46] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 6.89 ms
+[2026-05-30 15:18:11] GET / | IP: ::1
+  → Выполнено за 91.1 ms
+[2026-05-30 15:18:11] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 9.93 ms
+[2026-05-30 15:18:11] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-30 15:18:11] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.85 ms
+[2026-05-30 15:18:13] POST /api/news/1/react | IP: ::1
+  → Выполнено за 9.87 ms
+[2026-05-30 15:18:14] POST /api/news/1/react | IP: ::1
+  → Выполнено за 30.96 ms
+[2026-05-30 15:18:15] POST /api/news/1/react | IP: ::1
+  → Выполнено за 23.45 ms
+[2026-05-30 15:18:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-30 15:18:17] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 8.06 ms
+[2026-05-30 15:18:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.02 ms
+[2026-05-30 15:18:17] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.35 ms
+[2026-05-30 15:18:18] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.73 ms
+[2026-05-30 15:18:18] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 20.54 ms
+[2026-05-30 15:18:18] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.96 ms
+[2026-05-30 15:18:18] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 5.04 ms
+[2026-05-30 15:18:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.96 ms
+[2026-05-30 15:18:19] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.24 ms
+[2026-05-30 15:18:19] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-30 15:18:19] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-30 15:18:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-30 15:18:19] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-30 15:18:19] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-30 15:18:19] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.78 ms
+[2026-05-30 15:18:20] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.44 ms
+[2026-05-30 15:18:20] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-30 15:18:20] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.85 ms
+[2026-05-30 15:18:20] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.87 ms
+[2026-05-30 15:18:21] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.54 ms
+[2026-05-30 15:18:21] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.66 ms
+[2026-05-30 15:18:21] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.83 ms
+[2026-05-30 15:18:21] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-30 15:18:21] GET /news/1 | IP: ::1
+  → Выполнено за 27 ms
+[2026-05-30 15:18:21] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 6.02 ms
+[2026-05-30 15:18:24] GET / | IP: ::1
+  → Выполнено за 10.05 ms
+[2026-05-30 15:18:24] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 9.08 ms
+[2026-05-30 15:18:24] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 8.66 ms
+[2026-05-30 15:18:24] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 25.25 ms
+[2026-05-30 15:18:25] GET /news/2 | IP: ::1
+  → Выполнено за 25.4 ms
+[2026-05-30 15:18:25] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-30 15:18:26] GET / | IP: ::1
+  → Выполнено за 10.98 ms
+[2026-05-30 15:18:26] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 46.29 ms
+[2026-05-30 15:18:26] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 9.67 ms
+[2026-05-30 15:18:26] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 7.06 ms
+[2026-05-30 15:18:35] GET / | IP: ::1
+  → Выполнено за 6.3 ms
+[2026-05-30 15:18:35] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 4.26 ms
+[2026-05-30 15:18:35] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 13.18 ms
+[2026-05-30 15:18:35] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 4.53 ms
+[2026-05-30 15:18:35] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 8.55 ms
+[2026-05-30 15:18:35] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 4.13 ms
+[2026-05-30 15:21:48] GET / | IP: ::1
+  → Выполнено за 24.68 ms
+[2026-05-30 15:21:48] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 4.4 ms
+[2026-05-30 15:21:48] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 4.83 ms
+[2026-05-30 15:21:48] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-30 15:21:48] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 99.16 ms
+[2026-05-30 15:21:48] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 4.94 ms
+[2026-05-30 19:04:45] GET /logout | IP: ::1
+[2026-05-30 19:04:45] GET /login | IP: ::1
+  → Выполнено за 3.31 ms
+[2026-05-30 19:04:48] POST /login | IP: ::1
+[2026-05-30 19:04:49] GET / | IP: ::1
+  → Выполнено за 10.54 ms
+[2026-05-30 19:04:49] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-30 19:04:49] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 52.88 ms
+[2026-05-30 19:04:49] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 3.34 ms
+[2026-05-30 19:04:49] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 88.47 ms
+[2026-05-30 19:04:50] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 3.55 ms
+[2026-05-30 19:04:50] GET /logout | IP: ::1
+[2026-05-30 19:04:50] GET /login | IP: ::1
+  → Выполнено за 1.31 ms
+[2026-05-30 19:04:51] GET /register | IP: ::1
+  → Выполнено за 5.12 ms
+[2026-05-30 19:04:53] POST /register | IP: ::1
+  → Выполнено за 257.52 ms
+[2026-05-30 19:05:36] POST /register | IP: ::1
+  → Выполнено за 263.17 ms
+[2026-05-30 19:05:38] POST /register | IP: ::1
+  → Выполнено за 273.01 ms
+[2026-05-30 19:05:40] GET /login | IP: ::1
+  → Выполнено за 1.32 ms
+[2026-05-30 19:05:42] POST /login | IP: ::1
+[2026-05-30 19:05:42] GET / | IP: ::1
+  → Выполнено за 7.68 ms
+[2026-05-30 19:05:43] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 6.62 ms
+[2026-05-30 19:05:43] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.27 ms
+[2026-05-30 19:05:43] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 8.83 ms
+[2026-05-30 19:05:43] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.58 ms
+[2026-05-30 19:05:43] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 5.16 ms
+[2026-05-31 14:23:22] GET /login | IP: ::1
+  → Выполнено за 63.62 ms
+[2026-05-31 14:23:29] GET /login | IP: ::1
+  → Выполнено за 1.66 ms
+[2026-05-31 14:23:32] GET /register | IP: ::1
+  → Выполнено за 6.57 ms
+[2026-05-31 14:23:32] GET /login | IP: ::1
+  → Выполнено за 4.42 ms
+[2026-05-31 14:23:34] POST /register | IP: ::1
+  → Выполнено за 20.93 ms
+[2026-05-31 14:23:34] GET /login | IP: ::1
+  → Выполнено за 1.56 ms
+[2026-05-31 14:23:37] POST /register | IP: ::1
+[2026-05-31 14:23:37] GET / | IP: ::1
+  → Выполнено за 9.27 ms
+[2026-05-31 14:23:37] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 14.04 ms
+[2026-05-31 14:23:37] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 5.22 ms
+[2026-05-31 14:23:37] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 4.27 ms
+[2026-05-31 14:23:38] GET /favicon.ico | IP: ::1
+  → Выполнено за 1095.55 ms
+[2026-05-31 14:23:39] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.89 ms
+[2026-05-31 14:23:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 21.7 ms
+[2026-05-31 14:23:40] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 2.51 ms
+[2026-05-31 14:23:40] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 6.4 ms
+[2026-05-31 14:23:40] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.12 ms
+[2026-05-31 14:23:40] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.53 ms
+[2026-05-31 14:23:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.21 ms
+[2026-05-31 14:23:41] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 8.08 ms
+[2026-05-31 14:23:41] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.82 ms
+[2026-05-31 14:23:41] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.92 ms
+[2026-05-31 14:23:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 14:23:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.91 ms
+[2026-05-31 14:23:41] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 10.57 ms
+[2026-05-31 14:23:42] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 19.22 ms
+[2026-05-31 14:23:42] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.69 ms
+[2026-05-31 14:23:42] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.93 ms
+[2026-05-31 14:23:42] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.66 ms
+[2026-05-31 14:23:42] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.36 ms
+[2026-05-31 14:23:42] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 4.75 ms
+[2026-05-31 14:23:42] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.05 ms
+[2026-05-31 14:23:42] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.04 ms
+[2026-05-31 14:23:43] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.06 ms
+[2026-05-31 14:23:43] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.55 ms
+[2026-05-31 14:23:43] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 14:23:44] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.42 ms
+[2026-05-31 14:23:44] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 14:23:46] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.82 ms
+[2026-05-31 14:23:46] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 14:23:46] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.84 ms
+[2026-05-31 14:23:46] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 14:23:49] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.27 ms
+[2026-05-31 14:23:49] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:23:49] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-31 14:23:50] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 14:23:50] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 4.49 ms
+[2026-05-31 14:23:50] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:23:50] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.98 ms
+[2026-05-31 14:23:54] GET /news/1 | IP: ::1
+  → Выполнено за 15.99 ms
+[2026-05-31 14:23:54] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 10.43 ms
+[2026-05-31 14:23:55] GET / | IP: ::1
+  → Выполнено за 24.11 ms
+[2026-05-31 14:23:55] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 17.47 ms
+[2026-05-31 14:23:56] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 27.48 ms
+[2026-05-31 14:23:56] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 11.27 ms
+[2026-05-31 14:24:35] GET /admin/news | IP: ::1
+[2026-05-31 14:24:35] GET / | IP: ::1
+  → Выполнено за 11.45 ms
+[2026-05-31 14:24:35] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 5.73 ms
+[2026-05-31 14:24:35] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 30.98 ms
+[2026-05-31 14:24:35] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 5.18 ms
+[2026-05-31 14:24:37] GET /logout | IP: ::1
+[2026-05-31 14:24:37] GET /login | IP: ::1
+  → Выполнено за 5.89 ms
+[2026-05-31 14:24:43] POST /login | IP: ::1
+[2026-05-31 14:24:44] GET / | IP: ::1
+  → Выполнено за 48.83 ms
+[2026-05-31 14:24:44] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 4.51 ms
+[2026-05-31 14:24:44] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 12.81 ms
+[2026-05-31 14:24:44] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 4.35 ms
+[2026-05-31 14:24:48] GET /admin/news | IP: ::1
+  → Выполнено за 4.74 ms
+[2026-05-31 14:24:55] GET /admin/comments | IP: ::1
+  → Выполнено за 6.04 ms
+[2026-05-31 14:24:59] GET /admin/news | IP: ::1
+  → Выполнено за 3.57 ms
+[2026-05-31 14:29:49] GET /admin/news | IP: ::1
+  → Выполнено за 106.2 ms
+[2026-05-31 14:30:18] GET /admin/news | IP: ::1
+  → Выполнено за 23.3 ms
+[2026-05-31 14:30:20] GET /admin/parse | IP: ::1
+  → Выполнено за 3667.09 ms
+[2026-05-31 14:31:32] GET /admin/parse | IP: ::1
+  → Выполнено за 1331.12 ms
+[2026-05-31 14:32:02] GET /admin/parse | IP: ::1
+  → Выполнено за 1592.89 ms
+[2026-05-31 14:32:32] GET /admin/parse | IP: ::1
+  → Выполнено за 1208.39 ms
+[2026-05-31 14:32:52] GET /admin/parse | IP: ::1
+  → Выполнено за 1323.84 ms
+[2026-05-31 14:34:02] GET /admin/parse | IP: ::1
+  → Выполнено за 1282.08 ms
+[2026-05-31 14:35:51] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:37] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:38] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:38] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:39] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:39] GET /favicon.ico | IP: ::1
+  → Выполнено за 37.87 ms
+[2026-05-31 14:36:44] GET / | IP: ::1
+  → Выполнено за 17.86 ms
+[2026-05-31 14:36:44] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 11.79 ms
+[2026-05-31 14:36:44] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 7.6 ms
+[2026-05-31 14:36:44] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.57 ms
+[2026-05-31 14:36:44] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 6.41 ms
+[2026-05-31 14:36:44] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 6.59 ms
+[2026-05-31 14:36:47] GET /admin/news | IP: ::1
+  → Выполнено за 11.48 ms
+[2026-05-31 14:36:51] GET /admin/parse | IP: ::1
+[2026-05-31 14:36:59] GET /admin/parse | IP: ::1
+[2026-05-31 14:37:12] GET /admin/parse | IP: ::1
+  → Выполнено за 1118 ms
+[2026-05-31 14:38:11] GET /admin/parse | IP: ::1
+  → Выполнено за 1399.1 ms
+[2026-05-31 14:38:16] GET /admin/parse | IP: ::1
+  → Выполнено за 790.08 ms
+[2026-05-31 14:39:05] GET /admin/parse | IP: ::1
+  → Выполнено за 1263.75 ms
+[2026-05-31 14:40:10] GET /admin/parse | IP: ::1
+  → Выполнено за 622.77 ms
+[2026-05-31 14:40:21] GET / | IP: ::1
+  → Выполнено за 5.98 ms
+[2026-05-31 14:40:21] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 14:40:21] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 14:40:21] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.91 ms
+[2026-05-31 14:40:21] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:40:21] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.6 ms
+[2026-05-31 14:40:23] POST /api/news/filter | IP: ::1
+  → Выполнено за 15.29 ms
+[2026-05-31 14:40:23] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 8.05 ms
+[2026-05-31 14:40:23] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 7.11 ms
+[2026-05-31 14:40:24] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 5.76 ms
+[2026-05-31 14:40:24] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 14:40:24] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 3.27 ms
+[2026-05-31 14:40:24] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.93 ms
+[2026-05-31 14:40:24] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-31 14:40:24] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.48 ms
+[2026-05-31 14:40:24] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 8.75 ms
+[2026-05-31 14:40:24] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.76 ms
+[2026-05-31 14:40:24] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-31 14:40:25] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.32 ms
+[2026-05-31 14:40:25] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 13.47 ms
+[2026-05-31 14:40:25] GET /api/news/93/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 14:40:25] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 14:40:25] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 5.73 ms
+[2026-05-31 14:40:26] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:40:26] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 14:40:26] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.16 ms
+[2026-05-31 14:40:26] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 7.48 ms
+[2026-05-31 14:40:26] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 8.23 ms
+[2026-05-31 14:40:26] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.95 ms
+[2026-05-31 14:40:26] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 5.8 ms
+[2026-05-31 14:40:26] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.51 ms
+[2026-05-31 14:40:27] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.12 ms
+[2026-05-31 14:40:27] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.16 ms
+[2026-05-31 14:40:27] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.36 ms
+[2026-05-31 14:40:27] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 14:40:27] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 6.8 ms
+[2026-05-31 14:40:27] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 14:40:28] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.94 ms
+[2026-05-31 14:40:28] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.26 ms
+[2026-05-31 14:40:28] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 14:40:28] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 14:40:28] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 14:40:28] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 14:40:28] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 7.63 ms
+[2026-05-31 14:40:29] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.98 ms
+[2026-05-31 14:40:29] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 14:40:30] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.56 ms
+[2026-05-31 14:40:30] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 47.25 ms
+[2026-05-31 14:40:30] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.08 ms
+[2026-05-31 14:40:30] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 9.09 ms
+[2026-05-31 14:40:30] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 3.06 ms
+[2026-05-31 14:40:31] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.89 ms
+[2026-05-31 14:40:34] POST /api/news/filter | IP: ::1
+  → Выполнено за 8.82 ms
+[2026-05-31 14:40:34] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 4.69 ms
+[2026-05-31 14:40:34] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 9.28 ms
+[2026-05-31 14:40:34] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 6.24 ms
+[2026-05-31 14:40:34] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 14:40:34] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 4.94 ms
+[2026-05-31 14:40:34] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.83 ms
+[2026-05-31 14:40:34] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.39 ms
+[2026-05-31 14:40:34] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:40:34] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.12 ms
+[2026-05-31 14:40:34] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-31 14:40:34] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 14:40:35] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.19 ms
+[2026-05-31 14:40:35] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.01 ms
+[2026-05-31 14:40:35] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 6.74 ms
+[2026-05-31 14:40:35] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:40:35] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 7.53 ms
+[2026-05-31 14:40:35] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 14:40:36] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.39 ms
+[2026-05-31 14:40:36] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 9.44 ms
+[2026-05-31 14:40:36] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.04 ms
+[2026-05-31 14:40:36] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.94 ms
+[2026-05-31 14:40:36] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 14:40:36] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.82 ms
+[2026-05-31 14:40:37] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 14:40:37] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 14:40:37] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 6.74 ms
+[2026-05-31 14:40:37] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-31 14:40:37] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 2.76 ms
+[2026-05-31 14:40:37] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 14:40:40] GET /news/46 | IP: ::1
+  → Выполнено за 9.2 ms
+[2026-05-31 14:40:41] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 8.23 ms
+[2026-05-31 14:40:46] GET / | IP: ::1
+  → Выполнено за 8.71 ms
+[2026-05-31 14:40:46] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-31 14:40:46] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 16.64 ms
+[2026-05-31 14:40:46] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 9.62 ms
+[2026-05-31 14:40:47] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.38 ms
+[2026-05-31 14:40:47] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:40:47] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.93 ms
+[2026-05-31 14:40:47] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 8.25 ms
+[2026-05-31 14:40:47] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 5.71 ms
+[2026-05-31 14:40:47] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 7.33 ms
+[2026-05-31 14:40:47] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 6.98 ms
+[2026-05-31 14:40:48] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 9.55 ms
+[2026-05-31 14:40:49] GET /news/53 | IP: ::1
+  → Выполнено за 9.49 ms
+[2026-05-31 14:40:49] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 14:40:50] GET / | IP: ::1
+  → Выполнено за 13.97 ms
+[2026-05-31 14:40:50] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 6.32 ms
+[2026-05-31 14:40:50] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 18.85 ms
+[2026-05-31 14:40:50] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-31 14:40:51] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 7.89 ms
+[2026-05-31 14:40:51] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.46 ms
+[2026-05-31 14:40:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.41 ms
+[2026-05-31 14:40:51] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 4 ms
+[2026-05-31 14:40:51] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 14:40:51] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 3.85 ms
+[2026-05-31 14:40:51] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 14:40:51] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 4.75 ms
+[2026-05-31 14:40:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.21 ms
+[2026-05-31 14:40:51] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.01 ms
+[2026-05-31 14:40:51] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.32 ms
+[2026-05-31 14:40:51] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.55 ms
+[2026-05-31 14:40:51] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 14:40:51] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 29.92 ms
+[2026-05-31 14:40:52] GET /news/46 | IP: ::1
+  → Выполнено за 43.33 ms
+[2026-05-31 14:40:52] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.99 ms
+[2026-05-31 14:40:57] GET / | IP: ::1
+  → Выполнено за 10.07 ms
+[2026-05-31 14:40:57] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 6.11 ms
+[2026-05-31 14:40:57] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 14:40:57] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 5.35 ms
+[2026-05-31 14:40:58] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 27.53 ms
+[2026-05-31 14:40:58] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 10.48 ms
+[2026-05-31 14:41:49] GET /news/45 | IP: ::1
+  → Выполнено за 12.42 ms
+[2026-05-31 14:41:50] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-31 14:42:00] GET / | IP: ::1
+  → Выполнено за 51.86 ms
+[2026-05-31 14:42:00] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 14:42:01] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 96.83 ms
+[2026-05-31 14:42:01] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 27.34 ms
+[2026-05-31 14:42:01] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 13.39 ms
+[2026-05-31 14:42:01] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 7.77 ms
+[2026-05-31 14:42:02] GET /news/48 | IP: ::1
+  → Выполнено за 13.83 ms
+[2026-05-31 14:42:02] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.73 ms
+[2026-05-31 14:42:03] GET / | IP: ::1
+  → Выполнено за 10.7 ms
+[2026-05-31 14:42:03] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 10.77 ms
+[2026-05-31 14:42:03] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 46.51 ms
+[2026-05-31 14:42:03] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 100.42 ms
+[2026-05-31 14:42:04] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 17.55 ms
+[2026-05-31 14:42:04] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 14:42:04] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.36 ms
+[2026-05-31 14:42:04] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 11.55 ms
+[2026-05-31 14:42:04] GET /api/news/50/user-reactions | IP: ::1
+  → Выполнено за 3.04 ms
+[2026-05-31 14:42:04] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 3 ms
+[2026-05-31 14:42:05] GET /api/news/52/user-reactions | IP: ::1
+  → Выполнено за 5.84 ms
+[2026-05-31 14:42:05] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 3.17 ms
+[2026-05-31 14:42:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.14 ms
+[2026-05-31 14:42:05] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 6.5 ms
+[2026-05-31 14:42:05] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 3.03 ms
+[2026-05-31 14:42:05] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.69 ms
+[2026-05-31 14:42:05] GET /api/news/57/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 14:42:05] GET /api/news/58/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 14:42:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.87 ms
+[2026-05-31 14:42:05] GET /api/news/59/user-reactions | IP: ::1
+  → Выполнено за 5.98 ms
+[2026-05-31 14:42:05] GET /api/news/60/user-reactions | IP: ::1
+  → Выполнено за 3.07 ms
+[2026-05-31 14:42:05] GET /api/news/61/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 14:42:05] GET /api/news/62/user-reactions | IP: ::1
+  → Выполнено за 4.01 ms
+[2026-05-31 14:42:05] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 4.53 ms
+[2026-05-31 14:42:06] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.64 ms
+[2026-05-31 14:42:06] GET /api/news/64/user-reactions | IP: ::1
+  → Выполнено за 3.31 ms
+[2026-05-31 14:42:06] GET /api/news/65/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 14:42:06] GET /api/news/66/user-reactions | IP: ::1
+  → Выполнено за 2.55 ms
+[2026-05-31 14:42:06] GET /api/news/67/user-reactions | IP: ::1
+  → Выполнено за 2.63 ms
+[2026-05-31 14:42:06] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 14:42:06] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.42 ms
+[2026-05-31 14:42:06] GET /api/news/69/user-reactions | IP: ::1
+  → Выполнено за 5.45 ms
+[2026-05-31 14:42:06] GET /api/news/70/user-reactions | IP: ::1
+  → Выполнено за 5.15 ms
+[2026-05-31 14:42:06] GET /api/news/71/user-reactions | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 14:42:06] GET /api/news/72/user-reactions | IP: ::1
+  → Выполнено за 3.68 ms
+[2026-05-31 14:42:06] GET /api/news/73/user-reactions | IP: ::1
+  → Выполнено за 3.18 ms
+[2026-05-31 14:42:07] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.5 ms
+[2026-05-31 14:42:07] GET /api/news/74/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 14:42:07] GET /api/news/75/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:42:07] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 4.64 ms
+[2026-05-31 14:42:07] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 4.62 ms
+[2026-05-31 14:42:07] GET /api/news/78/user-reactions | IP: ::1
+  → Выполнено за 3.5 ms
+[2026-05-31 14:42:08] GET /news/78 | IP: ::1
+  → Выполнено за 28.29 ms
+[2026-05-31 14:42:08] GET /api/news/78/user-reactions | IP: ::1
+  → Выполнено за 4.13 ms
+[2026-05-31 14:42:11] GET / | IP: ::1
+  → Выполнено за 11.08 ms
+[2026-05-31 14:42:11] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 4.51 ms
+[2026-05-31 14:42:11] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 131.43 ms
+[2026-05-31 14:42:11] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 30.04 ms
+[2026-05-31 14:42:11] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 16.69 ms
+[2026-05-31 14:42:12] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 8.48 ms
+[2026-05-31 14:42:12] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.22 ms
+[2026-05-31 14:42:12] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:42:12] GET /api/news/50/user-reactions | IP: ::1
+  → Выполнено за 2.8 ms
+[2026-05-31 14:42:12] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 5.44 ms
+[2026-05-31 14:42:12] GET /api/news/52/user-reactions | IP: ::1
+  → Выполнено за 12.47 ms
+[2026-05-31 14:42:13] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 15.36 ms
+[2026-05-31 14:42:13] GET /news/53 | IP: ::1
+  → Выполнено за 23.65 ms
+[2026-05-31 14:42:13] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 8.49 ms
+[2026-05-31 14:42:15] GET / | IP: ::1
+  → Выполнено за 9.03 ms
+[2026-05-31 14:42:15] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.76 ms
+[2026-05-31 14:42:15] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 60.89 ms
+[2026-05-31 14:42:16] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.56 ms
+[2026-05-31 14:42:16] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 9.83 ms
+[2026-05-31 14:42:16] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 15.01 ms
+[2026-05-31 14:42:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 8.4 ms
+[2026-05-31 14:42:17] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 14:42:17] GET /api/news/50/user-reactions | IP: ::1
+  → Выполнено за 4.68 ms
+[2026-05-31 14:42:17] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 14:42:17] GET /api/news/52/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 14:42:17] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 2.71 ms
+[2026-05-31 14:42:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.51 ms
+[2026-05-31 14:42:18] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 6.97 ms
+[2026-05-31 14:42:18] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 14:42:18] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 14:42:18] GET /api/news/57/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 14:42:18] GET /api/news/58/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 14:42:18] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.14 ms
+[2026-05-31 14:42:18] GET /api/news/59/user-reactions | IP: ::1
+  → Выполнено за 9.51 ms
+[2026-05-31 14:42:18] GET /api/news/60/user-reactions | IP: ::1
+  → Выполнено за 32.31 ms
+[2026-05-31 14:42:18] GET /api/news/61/user-reactions | IP: ::1
+  → Выполнено за 5 ms
+[2026-05-31 14:42:18] GET /api/news/62/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 14:42:18] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 14:42:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.89 ms
+[2026-05-31 14:42:19] GET /api/news/64/user-reactions | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-31 14:42:19] GET /api/news/65/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-31 14:42:19] GET /api/news/66/user-reactions | IP: ::1
+  → Выполнено за 6.34 ms
+[2026-05-31 14:42:19] GET /api/news/67/user-reactions | IP: ::1
+  → Выполнено за 2.93 ms
+[2026-05-31 14:42:19] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 3.45 ms
+[2026-05-31 14:42:23] GET /news/66 | IP: ::1
+  → Выполнено за 13.83 ms
+[2026-05-31 14:42:23] GET /api/news/66/user-reactions | IP: ::1
+  → Выполнено за 4.98 ms
+[2026-05-31 14:42:29] GET / | IP: ::1
+  → Выполнено за 12.09 ms
+[2026-05-31 14:42:29] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 13.67 ms
+[2026-05-31 14:42:30] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-31 14:42:30] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 6.39 ms
+[2026-05-31 14:42:30] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 19.84 ms
+[2026-05-31 14:42:30] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 12.39 ms
+[2026-05-31 14:42:34] POST /api/news/filter | IP: ::1
+  → Выполнено за 9.45 ms
+[2026-05-31 14:42:34] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.72 ms
+[2026-05-31 14:42:34] GET /api/news/79/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 14:42:34] GET /api/news/83/user-reactions | IP: ::1
+  → Выполнено за 2.71 ms
+[2026-05-31 14:42:34] GET /api/news/90/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 14:42:34] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.95 ms
+[2026-05-31 14:42:35] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-31 14:42:35] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.06 ms
+[2026-05-31 14:42:35] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 14:42:35] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 14:42:35] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.65 ms
+[2026-05-31 14:42:35] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.53 ms
+[2026-05-31 14:42:35] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.63 ms
+[2026-05-31 14:42:35] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 8.66 ms
+[2026-05-31 14:42:35] GET /api/news/79/user-reactions | IP: ::1
+  → Выполнено за 5.46 ms
+[2026-05-31 14:42:35] GET /api/news/83/user-reactions | IP: ::1
+  → Выполнено за 2.93 ms
+[2026-05-31 14:42:35] GET /api/news/90/user-reactions | IP: ::1
+  → Выполнено за 2.7 ms
+[2026-05-31 14:42:36] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 6.4 ms
+[2026-05-31 14:42:36] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.06 ms
+[2026-05-31 14:42:36] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 4.08 ms
+[2026-05-31 14:42:36] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 14:42:36] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 14:42:36] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.62 ms
+[2026-05-31 14:42:36] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:42:37] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.01 ms
+[2026-05-31 14:42:37] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.57 ms
+[2026-05-31 14:42:37] GET /api/news/79/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 14:42:37] GET /api/news/83/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 14:42:37] GET /api/news/90/user-reactions | IP: ::1
+  → Выполнено за 5.88 ms
+[2026-05-31 14:42:37] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 14:42:38] GET /news/79 | IP: ::1
+  → Выполнено за 12.76 ms
+[2026-05-31 14:42:38] GET /api/news/79/user-reactions | IP: ::1
+  → Выполнено за 4.7 ms
+[2026-05-31 14:42:43] GET / | IP: ::1
+  → Выполнено за 20.47 ms
+[2026-05-31 14:42:43] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.77 ms
+[2026-05-31 14:42:43] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 14:42:43] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.69 ms
+[2026-05-31 14:42:43] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 14:42:43] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 5.17 ms
+[2026-05-31 14:42:43] POST /api/news/filter | IP: ::1
+  → Выполнено за 9.2 ms
+[2026-05-31 14:42:43] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 15.33 ms
+[2026-05-31 14:42:43] GET /api/news/90/user-reactions | IP: ::1
+  → Выполнено за 8.6 ms
+[2026-05-31 14:42:44] GET /api/news/83/user-reactions | IP: ::1
+  → Выполнено за 8.54 ms
+[2026-05-31 14:42:44] GET /api/news/79/user-reactions | IP: ::1
+  → Выполнено за 3.51 ms
+[2026-05-31 14:42:44] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 4.64 ms
+[2026-05-31 14:42:44] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.15 ms
+[2026-05-31 14:42:44] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.07 ms
+[2026-05-31 14:42:44] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 3.16 ms
+[2026-05-31 14:42:44] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 2.7 ms
+[2026-05-31 14:42:44] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 2.63 ms
+[2026-05-31 14:42:44] GET /api/news/65/user-reactions | IP: ::1
+  → Выполнено за 3.48 ms
+[2026-05-31 14:42:48] GET /news/65 | IP: ::1
+  → Выполнено за 24.34 ms
+[2026-05-31 14:42:48] GET /api/news/65/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:42:50] GET / | IP: ::1
+  → Выполнено за 5.52 ms
+[2026-05-31 14:42:50] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 18.75 ms
+[2026-05-31 14:42:50] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.51 ms
+[2026-05-31 14:42:51] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 63.17 ms
+[2026-05-31 14:42:51] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.17 ms
+[2026-05-31 14:42:51] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 9.45 ms
+[2026-05-31 14:42:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.99 ms
+[2026-05-31 14:42:51] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 4.57 ms
+[2026-05-31 14:42:51] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 7.7 ms
+[2026-05-31 14:42:51] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 3.46 ms
+[2026-05-31 14:42:51] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 3.79 ms
+[2026-05-31 14:42:51] GET /api/news/65/user-reactions | IP: ::1
+  → Выполнено за 3.08 ms
+[2026-05-31 14:42:52] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.98 ms
+[2026-05-31 14:42:52] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 14:42:52] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 14:42:52] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 14:42:52] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:42:52] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-31 14:42:53] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.22 ms
+[2026-05-31 14:42:53] GET /api/news/49/user-reactions | IP: ::1
+  → Выполнено за 5.83 ms
+[2026-05-31 14:42:53] GET /api/news/51/user-reactions | IP: ::1
+  → Выполнено за 7.97 ms
+[2026-05-31 14:42:53] GET /api/news/54/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-31 14:42:53] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 5.71 ms
+[2026-05-31 14:42:53] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 3.88 ms
+[2026-05-31 14:42:54] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.07 ms
+[2026-05-31 14:42:54] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 7.02 ms
+[2026-05-31 14:42:54] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 14:42:54] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 14:42:54] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 3.22 ms
+[2026-05-31 14:42:54] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 14:43:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 12.18 ms
+[2026-05-31 14:43:19] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 12.34 ms
+[2026-05-31 14:43:19] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.47 ms
+[2026-05-31 14:43:19] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 4.83 ms
+[2026-05-31 14:43:19] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 5.01 ms
+[2026-05-31 14:43:19] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 4.33 ms
+[2026-05-31 14:43:20] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.83 ms
+[2026-05-31 14:43:20] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 3.15 ms
+[2026-05-31 14:43:20] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 14:43:20] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 6.87 ms
+[2026-05-31 14:43:20] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.25 ms
+[2026-05-31 14:43:20] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 3.78 ms
+[2026-05-31 14:43:21] GET /news/7 | IP: ::1
+  → Выполнено за 12.57 ms
+[2026-05-31 14:43:21] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 14:48:23] GET / | IP: ::1
+  → Выполнено за 132.34 ms
+[2026-05-31 14:48:23] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.28 ms
+[2026-05-31 14:48:23] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 11.3 ms
+[2026-05-31 14:48:23] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 12.01 ms
+[2026-05-31 14:48:23] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.95 ms
+[2026-05-31 14:48:24] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 12.94 ms
+[2026-05-31 14:48:24] POST /api/news/filter | IP: ::1
+  → Выполнено за 15.91 ms
+[2026-05-31 14:48:24] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 4.22 ms
+[2026-05-31 14:48:24] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 45.2 ms
+[2026-05-31 14:48:24] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.32 ms
+[2026-05-31 14:48:24] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.14 ms
+[2026-05-31 14:48:24] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 9.5 ms
+[2026-05-31 14:48:26] GET /news/56 | IP: ::1
+  → Выполнено за 42.01 ms
+[2026-05-31 14:48:26] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 32.91 ms
+[2026-05-31 14:48:27] GET / | IP: ::1
+  → Выполнено за 19.65 ms
+[2026-05-31 14:48:27] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 56.92 ms
+[2026-05-31 14:48:27] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 14:48:28] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.5 ms
+[2026-05-31 14:48:28] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 6.4 ms
+[2026-05-31 14:48:28] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 18.41 ms
+[2026-05-31 14:48:28] POST /api/news/filter | IP: ::1
+  → Выполнено за 15.04 ms
+[2026-05-31 14:48:28] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 7.87 ms
+[2026-05-31 14:48:28] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 5.41 ms
+[2026-05-31 14:48:28] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 13.04 ms
+[2026-05-31 14:48:28] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 6.04 ms
+[2026-05-31 14:48:28] GET /api/news/77/user-reactions | IP: ::1
+  → Выполнено за 5.15 ms
+[2026-05-31 14:48:38] GET /news/56 | IP: ::1
+  → Выполнено за 207.59 ms
+[2026-05-31 14:48:39] GET / | IP: ::1
+  → Выполнено за 7.6 ms
+[2026-05-31 14:48:39] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 12.39 ms
+[2026-05-31 14:48:39] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-31 14:48:39] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 14:48:39] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.94 ms
+[2026-05-31 14:48:41] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.89 ms
+[2026-05-31 14:48:41] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 6.1 ms
+[2026-05-31 14:48:41] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 14:48:41] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.49 ms
+[2026-05-31 14:48:52] GET / | IP: ::1
+  → Выполнено за 5.12 ms
+[2026-05-31 14:48:52] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 5.9 ms
+[2026-05-31 14:48:52] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 8.96 ms
+[2026-05-31 14:48:52] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.68 ms
+[2026-05-31 14:48:56] GET /admin/news | IP: ::1
+  → Выполнено за 11.37 ms
+[2026-05-31 14:48:58] GET /admin/parse | IP: ::1
+  → Выполнено за 1152.35 ms
+[2026-05-31 14:49:03] GET /admin/parse | IP: ::1
+  → Выполнено за 582.53 ms
+[2026-05-31 14:49:05] GET /admin/parse | IP: ::1
+  → Выполнено за 744.24 ms
+[2026-05-31 14:49:15] GET / | IP: ::1
+  → Выполнено за 6.46 ms
+[2026-05-31 14:49:15] GET /api/news/92/user-reactions | IP: ::1
+  → Выполнено за 19.05 ms
+[2026-05-31 14:49:15] GET /api/news/93/user-reactions | IP: ::1
+  → Выполнено за 3.21 ms
+[2026-05-31 14:49:15] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 14:49:15] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.56 ms
+[2026-05-31 14:49:15] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 14:49:27] GET /news/45 | IP: ::1
+  → Выполнено за 42.4 ms
+[2026-05-31 14:49:27] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 12.53 ms
+[2026-05-31 14:49:37] GET / | IP: ::1
+  → Выполнено за 34.87 ms
+[2026-05-31 14:49:37] GET /api/news/92/user-reactions | IP: ::1
+  → Выполнено за 26.02 ms
+[2026-05-31 14:49:37] GET /api/news/93/user-reactions | IP: ::1
+  → Выполнено за 3.82 ms
+[2026-05-31 14:49:37] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 13.39 ms
+[2026-05-31 14:49:38] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 48.78 ms
+[2026-05-31 14:49:38] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 4.95 ms
+[2026-05-31 14:49:38] GET /news/46 | IP: ::1
+  → Выполнено за 29 ms
+[2026-05-31 14:49:38] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 4.25 ms
+[2026-05-31 14:50:36] GET / | IP: ::1
+  → Выполнено за 11.76 ms
+[2026-05-31 14:50:36] GET /api/news/92/user-reactions | IP: ::1
+  → Выполнено за 32.06 ms
+[2026-05-31 14:50:37] GET /api/news/93/user-reactions | IP: ::1
+  → Выполнено за 5.72 ms
+[2026-05-31 14:50:37] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 9.74 ms
+[2026-05-31 14:50:37] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.82 ms
+[2026-05-31 14:50:37] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 9.63 ms
+[2026-05-31 14:50:44] GET / | IP: ::1
+  → Выполнено за 62.42 ms
+[2026-05-31 14:50:45] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 14.66 ms
+[2026-05-31 14:50:45] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 11.61 ms
+[2026-05-31 14:50:45] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 5.64 ms
+[2026-05-31 14:50:49] GET /admin/news | IP: ::1
+  → Выполнено за 6.62 ms
+[2026-05-31 14:50:52] GET /admin/parse | IP: ::1
+  → Выполнено за 1089.2 ms
+[2026-05-31 14:50:54] GET /admin/parse | IP: ::1
+  → Выполнено за 507.63 ms
+[2026-05-31 14:51:01] GET / | IP: ::1
+  → Выполнено за 6.93 ms
+[2026-05-31 14:51:01] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 13.1 ms
+[2026-05-31 14:51:01] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-31 14:51:01] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 9.48 ms
+[2026-05-31 14:51:01] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.63 ms
+[2026-05-31 14:51:01] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 14:51:05] GET /news/45 | IP: ::1
+  → Выполнено за 24 ms
+[2026-05-31 14:51:05] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 5.59 ms
+[2026-05-31 14:51:08] GET / | IP: ::1
+  → Выполнено за 6.99 ms
+[2026-05-31 14:51:08] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 14.87 ms
+[2026-05-31 14:51:08] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.68 ms
+[2026-05-31 14:51:08] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.88 ms
+[2026-05-31 14:51:08] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 11.19 ms
+[2026-05-31 14:51:08] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.29 ms
+[2026-05-31 14:51:08] GET / | IP: ::1
+  → Выполнено за 11.55 ms
+[2026-05-31 14:51:09] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.48 ms
+[2026-05-31 14:51:09] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-31 14:51:09] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 7.51 ms
+[2026-05-31 14:51:09] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 4.81 ms
+[2026-05-31 14:51:09] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 11.39 ms
+[2026-05-31 14:51:10] GET /news/44 | IP: ::1
+  → Выполнено за 32.42 ms
+[2026-05-31 14:51:10] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.19 ms
+[2026-05-31 14:51:14] GET / | IP: ::1
+  → Выполнено за 10.77 ms
+[2026-05-31 14:51:14] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 93.35 ms
+[2026-05-31 14:51:15] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 16.09 ms
+[2026-05-31 14:51:15] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 14:51:15] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 3.78 ms
+[2026-05-31 14:51:15] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.33 ms
+[2026-05-31 14:51:16] GET /news/46 | IP: ::1
+  → Выполнено за 48.08 ms
+[2026-05-31 14:51:16] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 14:51:18] GET / | IP: ::1
+  → Выполнено за 10.3 ms
+[2026-05-31 14:51:18] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 5.81 ms
+[2026-05-31 14:51:19] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 17.6 ms
+[2026-05-31 14:51:19] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-31 14:51:19] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 11.28 ms
+[2026-05-31 14:51:19] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.54 ms
+[2026-05-31 14:51:20] GET /news/48 | IP: ::1
+  → Выполнено за 9.54 ms
+[2026-05-31 14:51:20] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.94 ms
+[2026-05-31 14:53:05] GET /news/48 | IP: ::1
+  → Выполнено за 53.63 ms
+[2026-05-31 14:53:07] GET / | IP: ::1
+  → Выполнено за 5.17 ms
+[2026-05-31 14:53:07] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 6.43 ms
+[2026-05-31 14:53:07] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.29 ms
+[2026-05-31 14:53:07] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 14.41 ms
+[2026-05-31 14:53:13] GET /admin/news | IP: ::1
+  → Выполнено за 4.86 ms
+[2026-05-31 14:53:19] GET /admin/parse | IP: ::1
+  → Выполнено за 1097 ms
+[2026-05-31 14:53:25] GET / | IP: ::1
+  → Выполнено за 5.68 ms
+[2026-05-31 14:53:25] GET /api/news/72/user-reactions | IP: ::1
+  → Выполнено за 6.81 ms
+[2026-05-31 14:53:25] GET /api/news/73/user-reactions | IP: ::1
+  → Выполнено за 7.04 ms
+[2026-05-31 14:53:25] GET /api/news/74/user-reactions | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 14:53:25] GET /api/news/75/user-reactions | IP: ::1
+  → Выполнено за 3.28 ms
+[2026-05-31 14:53:25] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 3.13 ms
+[2026-05-31 14:53:27] GET /news/72 | IP: ::1
+  → Выполнено за 11.49 ms
+[2026-05-31 14:53:27] GET /api/news/72/user-reactions | IP: ::1
+  → Выполнено за 2.84 ms
+[2026-05-31 14:54:35] GET /news/72 | IP: ::1
+  → Выполнено за 26.41 ms
+[2026-05-31 14:54:36] GET /api/news/72/user-reactions | IP: ::1
+  → Выполнено за 6.79 ms
+[2026-05-31 14:54:36] GET / | IP: ::1
+  → Выполнено за 12.57 ms
+[2026-05-31 14:54:37] GET /api/news/72/user-reactions | IP: ::1
+  → Выполнено за 36.54 ms
+[2026-05-31 14:54:37] GET /api/news/73/user-reactions | IP: ::1
+  → Выполнено за 5.76 ms
+[2026-05-31 14:54:37] GET /api/news/74/user-reactions | IP: ::1
+  → Выполнено за 2.87 ms
+[2026-05-31 14:54:37] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 4.68 ms
+[2026-05-31 14:54:37] GET /api/news/75/user-reactions | IP: ::1
+  → Выполнено за 4.54 ms
+[2026-05-31 14:54:48] GET / | IP: ::1
+  → Выполнено за 47.47 ms
+[2026-05-31 14:54:48] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 9.11 ms
+[2026-05-31 14:54:48] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 6.2 ms
+[2026-05-31 14:54:48] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 8.09 ms
+[2026-05-31 14:54:49] GET / | IP: ::1
+  → Выполнено за 4.9 ms
+[2026-05-31 14:54:49] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.92 ms
+[2026-05-31 14:54:49] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.46 ms
+[2026-05-31 14:54:49] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.6 ms
+[2026-05-31 14:54:51] GET / | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 14:54:51] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 10.19 ms
+[2026-05-31 14:54:51] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.46 ms
+[2026-05-31 14:54:51] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 11.37 ms
+[2026-05-31 14:54:54] GET /admin/news | IP: ::1
+  → Выполнено за 5.8 ms
+[2026-05-31 14:54:56] GET /admin/news | IP: ::1
+  → Выполнено за 3.47 ms
+[2026-05-31 14:54:58] GET /admin/parse | IP: ::1
+  → Выполнено за 973.41 ms
+[2026-05-31 14:55:03] GET / | IP: ::1
+  → Выполнено за 5.49 ms
+[2026-05-31 14:55:03] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 9.87 ms
+[2026-05-31 14:55:03] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 5.01 ms
+[2026-05-31 14:55:03] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 5.7 ms
+[2026-05-31 14:55:03] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.79 ms
+[2026-05-31 14:55:03] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.37 ms
+[2026-05-31 14:55:09] GET /admin/news | IP: ::1
+  → Выполнено за 8.36 ms
+[2026-05-31 14:55:12] GET /news/4 | IP: ::1
+  → Выполнено за 35.43 ms
+[2026-05-31 14:55:12] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 6.52 ms
+[2026-05-31 14:55:14] GET / | IP: ::1
+  → Выполнено за 17.64 ms
+[2026-05-31 14:55:14] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 32.24 ms
+[2026-05-31 14:55:14] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.26 ms
+[2026-05-31 14:55:14] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.52 ms
+[2026-05-31 14:55:14] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-31 14:55:14] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.63 ms
+[2026-05-31 14:55:19] GET /news/5 | IP: ::1
+  → Выполнено за 37.56 ms
+[2026-05-31 14:55:19] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.72 ms
+[2026-05-31 14:55:23] GET /admin/news/edit/6 | IP: ::1
+  → Выполнено за 5.02 ms
+[2026-05-31 14:56:34] POST /api/news/5/react | IP: ::1
+  → Выполнено за 19.62 ms
+[2026-05-31 14:56:35] POST /api/news/5/react | IP: ::1
+  → Выполнено за 25.52 ms
+[2026-05-31 14:56:41] GET / | IP: ::1
+  → Выполнено за 12.03 ms
+[2026-05-31 14:56:41] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 4.88 ms
+[2026-05-31 14:56:42] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.61 ms
+[2026-05-31 14:56:42] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.11 ms
+[2026-05-31 14:56:42] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 9.05 ms
+[2026-05-31 14:56:42] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 16.08 ms
+[2026-05-31 14:56:43] GET /news/5 | IP: ::1
+  → Выполнено за 32.28 ms
+[2026-05-31 14:56:43] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 7.17 ms
+[2026-05-31 14:56:43] GET / | IP: ::1
+  → Выполнено за 5.99 ms
+[2026-05-31 14:56:44] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 9.97 ms
+[2026-05-31 14:56:44] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 12.51 ms
+[2026-05-31 14:56:44] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 13.32 ms
+[2026-05-31 14:56:44] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 5.58 ms
+[2026-05-31 14:56:44] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 10.55 ms
+[2026-05-31 14:56:45] GET /news/7 | IP: ::1
+  → Выполнено за 14.74 ms
+[2026-05-31 14:56:45] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.89 ms
+[2026-05-31 14:56:46] GET / | IP: ::1
+  → Выполнено за 12.31 ms
+[2026-05-31 14:56:46] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.51 ms
+[2026-05-31 14:56:47] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 38.9 ms
+[2026-05-31 14:56:47] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.85 ms
+[2026-05-31 14:56:47] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.97 ms
+[2026-05-31 14:56:47] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 60.41 ms
+[2026-05-31 14:56:50] GET /admin/news | IP: ::1
+  → Выполнено за 6.37 ms
+[2026-05-31 14:56:54] GET /admin/news/edit/7 | IP: ::1
+  → Выполнено за 3.9 ms
+[2026-05-31 14:57:00] GET /news/8 | IP: ::1
+  → Выполнено за 8.92 ms
+[2026-05-31 14:57:00] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 13.23 ms
+[2026-05-31 14:57:01] GET / | IP: ::1
+  → Выполнено за 12.02 ms
+[2026-05-31 14:57:01] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 84.16 ms
+[2026-05-31 14:57:02] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 10.39 ms
+[2026-05-31 14:57:02] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.34 ms
+[2026-05-31 14:57:02] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 7.37 ms
+[2026-05-31 14:57:02] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.16 ms
+[2026-05-31 14:57:02] GET /news/8 | IP: ::1
+  → Выполнено за 17.83 ms
+[2026-05-31 14:57:02] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.17 ms
+[2026-05-31 14:57:04] GET / | IP: ::1
+  → Выполнено за 13.06 ms
+[2026-05-31 14:57:04] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 4.61 ms
+[2026-05-31 14:57:04] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 16.18 ms
+[2026-05-31 14:57:04] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 66.67 ms
+[2026-05-31 14:57:05] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 5.42 ms
+[2026-05-31 14:57:05] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.22 ms
+[2026-05-31 14:57:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.96 ms
+[2026-05-31 14:57:07] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.85 ms
+[2026-05-31 14:57:07] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-31 14:57:08] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.09 ms
+[2026-05-31 14:57:08] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.77 ms
+[2026-05-31 14:57:08] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 14:57:08] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 14:57:08] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 6.21 ms
+[2026-05-31 14:57:08] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.41 ms
+[2026-05-31 14:57:09] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.3 ms
+[2026-05-31 14:57:09] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 3.71 ms
+[2026-05-31 14:57:09] GET /api/news/16/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:57:09] GET /api/news/18/user-reactions | IP: ::1
+  → Выполнено за 4.71 ms
+[2026-05-31 14:57:09] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 4.47 ms
+[2026-05-31 14:57:09] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 5.35 ms
+[2026-05-31 14:57:10] GET /news/15 | IP: ::1
+  → Выполнено за 10.63 ms
+[2026-05-31 14:57:10] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 6.77 ms
+[2026-05-31 14:57:12] GET / | IP: ::1
+  → Выполнено за 12 ms
+[2026-05-31 14:57:12] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 30.28 ms
+[2026-05-31 14:57:12] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 14:57:12] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.17 ms
+[2026-05-31 14:57:12] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.81 ms
+[2026-05-31 14:57:12] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 15.3 ms
+[2026-05-31 14:57:12] POST /api/news/filter | IP: ::1
+  → Выполнено за 15.07 ms
+[2026-05-31 14:57:12] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 13.29 ms
+[2026-05-31 14:57:12] GET /api/news/16/user-reactions | IP: ::1
+  → Выполнено за 5.85 ms
+[2026-05-31 14:57:12] GET /api/news/18/user-reactions | IP: ::1
+  → Выполнено за 4.98 ms
+[2026-05-31 14:57:13] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 12.56 ms
+[2026-05-31 14:57:13] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.16 ms
+[2026-05-31 14:57:13] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.96 ms
+[2026-05-31 14:57:13] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 4.38 ms
+[2026-05-31 14:57:13] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.52 ms
+[2026-05-31 14:57:13] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.81 ms
+[2026-05-31 14:57:13] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 14:57:13] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 7.16 ms
+[2026-05-31 14:57:14] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.78 ms
+[2026-05-31 14:57:14] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 6.94 ms
+[2026-05-31 14:57:14] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 14:57:14] GET /news/5 | IP: ::1
+  → Выполнено за 28.18 ms
+[2026-05-31 14:57:15] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.35 ms
+[2026-05-31 14:57:16] GET / | IP: ::1
+  → Выполнено за 12.87 ms
+[2026-05-31 14:57:16] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.53 ms
+[2026-05-31 14:57:16] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 10.59 ms
+[2026-05-31 14:57:16] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 10.62 ms
+[2026-05-31 14:57:17] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.49 ms
+[2026-05-31 14:57:17] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 16.09 ms
+[2026-05-31 14:57:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 8.82 ms
+[2026-05-31 14:57:17] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.93 ms
+[2026-05-31 14:57:17] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 3.3 ms
+[2026-05-31 14:57:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 14:57:17] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 7.8 ms
+[2026-05-31 14:57:17] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.15 ms
+[2026-05-31 14:57:17] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 2.95 ms
+[2026-05-31 14:57:18] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.56 ms
+[2026-05-31 14:57:18] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 19.71 ms
+[2026-05-31 14:57:18] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.88 ms
+[2026-05-31 14:57:18] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 7.16 ms
+[2026-05-31 14:57:18] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 6.13 ms
+[2026-05-31 14:57:18] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 3.48 ms
+[2026-05-31 14:57:19] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.94 ms
+[2026-05-31 14:57:19] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 14:57:19] GET /news/5 | IP: ::1
+  → Выполнено за 33.34 ms
+[2026-05-31 14:57:19] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-31 14:57:23] GET / | IP: ::1
+  → Выполнено за 14.12 ms
+[2026-05-31 14:57:23] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 14.33 ms
+[2026-05-31 14:57:23] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.66 ms
+[2026-05-31 14:57:23] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 6.67 ms
+[2026-05-31 14:57:23] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.72 ms
+[2026-05-31 14:57:23] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 14.09 ms
+[2026-05-31 14:57:23] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.85 ms
+[2026-05-31 14:57:23] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.39 ms
+[2026-05-31 14:57:23] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.38 ms
+[2026-05-31 14:57:23] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 14:57:23] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 2.81 ms
+[2026-05-31 14:57:23] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-31 14:57:42] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.27 ms
+[2026-05-31 14:57:42] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 4.77 ms
+[2026-05-31 14:57:42] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 14:57:42] GET /api/news/19/user-reactions | IP: ::1
+  → Выполнено за 3.13 ms
+[2026-05-31 14:57:42] GET /api/news/21/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 14:57:42] GET /api/news/22/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:57:44] POST /api/news/filter | IP: ::1
+  → Выполнено за 9.23 ms
+[2026-05-31 14:57:44] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 38.39 ms
+[2026-05-31 14:57:44] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 14.14 ms
+[2026-05-31 14:57:45] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 4.86 ms
+[2026-05-31 14:57:45] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 2.96 ms
+[2026-05-31 14:57:45] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 14:57:45] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.8 ms
+[2026-05-31 14:57:45] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 12.03 ms
+[2026-05-31 14:57:45] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 6.77 ms
+[2026-05-31 14:57:45] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 3.06 ms
+[2026-05-31 14:57:45] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-31 14:57:45] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 3 ms
+[2026-05-31 14:57:46] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.47 ms
+[2026-05-31 14:57:46] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.12 ms
+[2026-05-31 14:57:46] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 14:57:46] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 14:57:46] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 14:57:46] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.68 ms
+[2026-05-31 14:57:47] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-31 14:57:47] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.5 ms
+[2026-05-31 14:57:47] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:57:47] GET /api/news/31/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 14:57:47] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 14:57:47] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 5.18 ms
+[2026-05-31 14:57:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.84 ms
+[2026-05-31 14:57:51] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 13.79 ms
+[2026-05-31 14:57:51] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-31 14:57:51] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.14 ms
+[2026-05-31 14:57:51] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 14:57:51] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 14:57:52] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.82 ms
+[2026-05-31 14:57:52] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 8 ms
+[2026-05-31 14:57:52] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 14:57:52] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 2.7 ms
+[2026-05-31 14:57:52] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.79 ms
+[2026-05-31 14:57:52] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 2.76 ms
+[2026-05-31 14:57:55] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.38 ms
+[2026-05-31 14:57:55] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.52 ms
+[2026-05-31 14:57:55] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.89 ms
+[2026-05-31 14:57:55] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 14:57:55] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 14:57:55] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 5.01 ms
+[2026-05-31 14:57:56] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.72 ms
+[2026-05-31 14:57:56] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 4.13 ms
+[2026-05-31 14:57:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.56 ms
+[2026-05-31 14:57:58] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 4.96 ms
+[2026-05-31 14:57:58] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:57:58] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 14:57:58] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 14:57:58] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 14:57:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.2 ms
+[2026-05-31 14:57:58] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-31 14:57:59] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.39 ms
+[2026-05-31 14:57:59] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.41 ms
+[2026-05-31 14:57:59] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.84 ms
+[2026-05-31 14:57:59] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 14:57:59] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 14:57:59] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 14:58:00] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.02 ms
+[2026-05-31 14:58:00] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 9.57 ms
+[2026-05-31 14:58:00] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 3.11 ms
+[2026-05-31 14:58:02] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.13 ms
+[2026-05-31 14:58:02] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 9.78 ms
+[2026-05-31 14:58:02] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 14:58:02] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.12 ms
+[2026-05-31 14:58:02] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.95 ms
+[2026-05-31 14:58:02] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.27 ms
+[2026-05-31 14:58:02] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.91 ms
+[2026-05-31 14:58:02] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 4.81 ms
+[2026-05-31 14:58:02] GET /api/news/40/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 14:58:02] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 14:58:02] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 14:58:02] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 14:58:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.56 ms
+[2026-05-31 14:58:05] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.13 ms
+[2026-05-31 14:58:06] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 5.23 ms
+[2026-05-31 14:58:06] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-31 14:58:06] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.4 ms
+[2026-05-31 14:58:06] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 14:58:06] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.92 ms
+[2026-05-31 14:58:06] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 4.74 ms
+[2026-05-31 14:58:06] GET /api/news/29/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 14:58:06] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 4.42 ms
+[2026-05-31 14:58:06] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 14:58:06] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 3.53 ms
+[2026-05-31 14:58:09] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-31 14:58:09] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.52 ms
+[2026-05-31 14:58:09] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 14:58:09] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 14:58:09] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 7.29 ms
+[2026-05-31 14:58:09] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.86 ms
+[2026-05-31 14:58:09] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.52 ms
+[2026-05-31 14:58:09] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.5 ms
+[2026-05-31 14:58:09] GET /api/news/20/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 14:58:09] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 2.56 ms
+[2026-05-31 14:58:09] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 14:58:09] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 14:58:13] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.23 ms
+[2026-05-31 14:58:13] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 6 ms
+[2026-05-31 14:58:13] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 5.19 ms
+[2026-05-31 14:58:13] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 14:58:13] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 14:58:13] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 14:58:14] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 14:58:15] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-31 14:58:15] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 7.33 ms
+[2026-05-31 14:58:15] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 7.93 ms
+[2026-05-31 14:58:15] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.41 ms
+[2026-05-31 14:58:15] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.83 ms
+[2026-05-31 14:58:15] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 7.36 ms
+[2026-05-31 14:58:18] GET /search?q=%D0%B2%D1%8B%D1%88%D0%B5%D0%BB | IP: ::1
+  → Выполнено за 7.22 ms
+[2026-05-31 14:58:19] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 65.53 ms
+[2026-05-31 14:58:19] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 11.86 ms
+[2026-05-31 14:58:24] GET /search?q=%D0%92%D1%8B%D1%88%D0%B5%D0%BB | IP: ::1
+  → Выполнено за 5.3 ms
+[2026-05-31 14:58:24] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 12.2 ms
+[2026-05-31 14:58:24] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 15.75 ms
+[2026-05-31 14:58:25] GET /news/44 | IP: ::1
+  → Выполнено за 53.07 ms
+[2026-05-31 14:58:25] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.81 ms
+[2026-05-31 14:59:32] GET /admin/news | IP: ::1
+  → Выполнено за 9.48 ms
+[2026-05-31 14:59:38] GET /search?q=%D0%92%D1%8B%D1%88%D0%B5%D0%BB | IP: ::1
+  → Выполнено за 10.17 ms
+[2026-05-31 14:59:38] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 12.09 ms
+[2026-05-31 14:59:38] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 10.94 ms
+[2026-05-31 14:59:40] GET /search?q= | IP: ::1
+  → Выполнено за 1.91 ms
+[2026-05-31 14:59:42] GET / | IP: ::1
+  → Выполнено за 5.73 ms
+[2026-05-31 14:59:42] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-31 14:59:42] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 5.89 ms
+[2026-05-31 14:59:42] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.86 ms
+[2026-05-31 14:59:42] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.62 ms
+[2026-05-31 14:59:42] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 38.24 ms
+[2026-05-31 15:00:48] GET / | IP: ::1
+  → Выполнено за 64.66 ms
+[2026-05-31 15:00:49] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 5.19 ms
+[2026-05-31 15:00:49] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 6.59 ms
+[2026-05-31 15:00:49] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 15:00:51] GET /admin/news | IP: ::1
+  → Выполнено за 3.58 ms
+[2026-05-31 15:00:53] GET /admin/parse | IP: ::1
+  → Выполнено за 1009.37 ms
+[2026-05-31 15:00:57] GET / | IP: ::1
+  → Выполнено за 6.46 ms
+[2026-05-31 15:00:57] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.11 ms
+[2026-05-31 15:00:57] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.52 ms
+[2026-05-31 15:00:57] GET /api/news/40/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 15:00:57] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 15:00:57] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 3.01 ms
+[2026-05-31 15:00:58] GET /news/36 | IP: ::1
+  → Выполнено за 25.18 ms
+[2026-05-31 15:00:58] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.86 ms
+[2026-05-31 15:01:05] GET / | IP: ::1
+  → Выполнено за 14.13 ms
+[2026-05-31 15:01:06] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 12.06 ms
+[2026-05-31 15:01:06] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 5.41 ms
+[2026-05-31 15:01:06] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 3.65 ms
+[2026-05-31 15:01:06] GET /api/news/40/user-reactions | IP: ::1
+  → Выполнено за 8.56 ms
+[2026-05-31 15:01:06] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 5.99 ms
+[2026-05-31 15:01:35] GET /admin/parse | IP: ::1
+  → Выполнено за 663.39 ms
+[2026-05-31 15:01:40] GET /news/36 | IP: ::1
+  → Выполнено за 44.79 ms
+[2026-05-31 15:01:40] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.51 ms
+[2026-05-31 15:01:41] GET / | IP: ::1
+  → Выполнено за 18.98 ms
+[2026-05-31 15:01:41] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 11.57 ms
+[2026-05-31 15:01:41] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.65 ms
+[2026-05-31 15:01:41] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 2.82 ms
+[2026-05-31 15:01:41] GET /api/news/40/user-reactions | IP: ::1
+  → Выполнено за 8.08 ms
+[2026-05-31 15:01:41] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 3.52 ms
+[2026-05-31 15:04:09] GET / | IP: ::1
+  → Выполнено за 10.46 ms
+[2026-05-31 15:04:09] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 5.82 ms
+[2026-05-31 15:04:10] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 3.55 ms
+[2026-05-31 15:04:10] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 5.87 ms
+[2026-05-31 15:04:10] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.29 ms
+[2026-05-31 15:04:10] GET /api/news/40/user-reactions | IP: ::1
+  → Выполнено за 6.76 ms
+[2026-05-31 15:05:42] GET /admin/parse | IP: ::1
+  → Выполнено за 1297.85 ms
+[2026-05-31 15:09:28] GET /news/36 | IP: ::1
+  → Выполнено за 35.92 ms
+[2026-05-31 15:09:28] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 6.25 ms
+[2026-05-31 15:10:28] GET /admin/parse | IP: ::1
+  → Выполнено за 1528.66 ms
+[2026-05-31 15:10:31] GET / | IP: ::1
+  → Выполнено за 14.71 ms
+[2026-05-31 15:10:31] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 6.94 ms
+[2026-05-31 15:10:31] GET /api/news/87/user-reactions | IP: ::1
+  → Выполнено за 5.86 ms
+[2026-05-31 15:10:31] GET /api/news/88/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-31 15:10:31] GET /api/news/89/user-reactions | IP: ::1
+  → Выполнено за 4.31 ms
+[2026-05-31 15:10:31] GET /api/news/90/user-reactions | IP: ::1
+  → Выполнено за 3.81 ms
+[2026-05-31 15:10:32] GET /news/86 | IP: ::1
+  → Выполнено за 27.17 ms
+[2026-05-31 15:10:32] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 6.15 ms
+[2026-05-31 15:15:16] GET / | IP: ::1
+  → Выполнено за 198.92 ms
+[2026-05-31 15:15:16] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 8.84 ms
+[2026-05-31 15:15:16] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 6.72 ms
+[2026-05-31 15:15:16] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 7 ms
+[2026-05-31 15:15:19] GET /admin/parse | IP: ::1
+  → Выполнено за 1315.75 ms
+[2026-05-31 15:15:22] GET /news/1 | IP: ::1
+  → Выполнено за 128.38 ms
+[2026-05-31 15:15:23] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 9.34 ms
+[2026-05-31 15:15:24] GET / | IP: ::1
+  → Выполнено за 18.89 ms
+[2026-05-31 15:15:24] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 36.23 ms
+[2026-05-31 15:15:24] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 6.87 ms
+[2026-05-31 15:15:24] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 12.62 ms
+[2026-05-31 15:15:25] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 9.51 ms
+[2026-05-31 15:15:25] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 9.4 ms
+[2026-05-31 15:15:26] GET /news/23 | IP: ::1
+  → Выполнено за 57.63 ms
+[2026-05-31 15:15:26] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 12.55 ms
+[2026-05-31 15:15:54] GET / | IP: ::1
+  → Выполнено за 5.68 ms
+[2026-05-31 15:15:54] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 12.18 ms
+[2026-05-31 15:15:54] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.73 ms
+[2026-05-31 15:15:54] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 5.85 ms
+[2026-05-31 15:15:54] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 15:15:54] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 15:15:55] GET /news/23 | IP: ::1
+  → Выполнено за 12.09 ms
+[2026-05-31 15:15:55] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 11.69 ms
+[2026-05-31 15:15:56] GET / | IP: ::1
+  → Выполнено за 11.58 ms
+[2026-05-31 15:15:57] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 7.56 ms
+[2026-05-31 15:15:57] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 50.42 ms
+[2026-05-31 15:15:57] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 15:15:57] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 34.08 ms
+[2026-05-31 15:15:57] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 130.95 ms
+[2026-05-31 15:15:58] GET /news/24 | IP: ::1
+  → Выполнено за 17.83 ms
+[2026-05-31 15:15:58] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 6.85 ms
+[2026-05-31 15:16:05] GET /.well-known/appspecific/com.chrome.devtools.json | IP: ::1
+  → Выполнено за 70.77 ms
+[2026-05-31 15:16:38] GET /news/24 | IP: ::1
+  → Выполнено за 88.24 ms
+[2026-05-31 15:16:39] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 12.22 ms
+[2026-05-31 15:16:45] GET /.well-known/appspecific/com.chrome.devtools.json | IP: ::1
+  → Выполнено за 47.45 ms
+[2026-05-31 15:17:27] GET /news/24 | IP: ::1
+  → Выполнено за 61.48 ms
+[2026-05-31 15:17:27] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.44 ms
+[2026-05-31 15:17:34] GET / | IP: ::1
+  → Выполнено за 10.2 ms
+[2026-05-31 15:17:34] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.2 ms
+[2026-05-31 15:17:35] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 66.34 ms
+[2026-05-31 15:17:35] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 15.32 ms
+[2026-05-31 15:17:35] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 5.16 ms
+[2026-05-31 15:17:35] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 12.4 ms
+[2026-05-31 15:17:36] GET /news/25 | IP: ::1
+  → Выполнено за 35.08 ms
+[2026-05-31 15:17:37] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 7.37 ms
+[2026-05-31 15:17:42] GET / | IP: ::1
+  → Выполнено за 9.8 ms
+[2026-05-31 15:17:42] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 22.63 ms
+[2026-05-31 15:17:42] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.43 ms
+[2026-05-31 15:17:42] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.24 ms
+[2026-05-31 15:17:42] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.92 ms
+[2026-05-31 15:17:42] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-31 15:17:44] GET /news/24 | IP: ::1
+  → Выполнено за 40.48 ms
+[2026-05-31 15:17:44] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.97 ms
+[2026-05-31 15:17:45] GET / | IP: ::1
+  → Выполнено за 13.61 ms
+[2026-05-31 15:17:45] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.35 ms
+[2026-05-31 15:17:45] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 16.37 ms
+[2026-05-31 15:17:45] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 8.33 ms
+[2026-05-31 15:17:46] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 5.08 ms
+[2026-05-31 15:17:46] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 32.92 ms
+[2026-05-31 15:17:48] GET /news/26 | IP: ::1
+  → Выполнено за 8.46 ms
+[2026-05-31 15:17:49] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 15:17:51] GET / | IP: ::1
+  → Выполнено за 11.72 ms
+[2026-05-31 15:17:51] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 7.76 ms
+[2026-05-31 15:17:51] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.67 ms
+[2026-05-31 15:17:51] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 8.68 ms
+[2026-05-31 15:17:51] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 10.4 ms
+[2026-05-31 15:17:51] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 80.02 ms
+[2026-05-31 15:17:55] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.91 ms
+[2026-05-31 15:17:55] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 6.69 ms
+[2026-05-31 15:17:55] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:17:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.21 ms
+[2026-05-31 15:17:58] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 11.58 ms
+[2026-05-31 15:17:58] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.95 ms
+[2026-05-31 15:17:58] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.81 ms
+[2026-05-31 15:17:58] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 15:17:58] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 15:18:04] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.81 ms
+[2026-05-31 15:18:04] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 9.85 ms
+[2026-05-31 15:18:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.53 ms
+[2026-05-31 15:18:05] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 6.77 ms
+[2026-05-31 15:18:05] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.34 ms
+[2026-05-31 15:18:05] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 15:18:05] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.88 ms
+[2026-05-31 15:18:05] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.71 ms
+[2026-05-31 15:18:06] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 15:18:06] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 14.99 ms
+[2026-05-31 15:18:07] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.18 ms
+[2026-05-31 15:18:07] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 13.6 ms
+[2026-05-31 15:18:07] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 15:18:07] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.87 ms
+[2026-05-31 15:18:07] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 15:18:07] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.12 ms
+[2026-05-31 15:18:08] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.32 ms
+[2026-05-31 15:18:08] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 6.52 ms
+[2026-05-31 15:18:08] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-31 15:18:08] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.79 ms
+[2026-05-31 15:18:08] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 15:18:08] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.96 ms
+[2026-05-31 15:18:09] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.32 ms
+[2026-05-31 15:18:09] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 9.02 ms
+[2026-05-31 15:18:09] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.99 ms
+[2026-05-31 15:18:09] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 4.68 ms
+[2026-05-31 15:18:09] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:18:09] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-31 15:18:09] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.17 ms
+[2026-05-31 15:18:09] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 9.15 ms
+[2026-05-31 15:18:09] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 5.47 ms
+[2026-05-31 15:18:09] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 2.8 ms
+[2026-05-31 15:18:09] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.41 ms
+[2026-05-31 15:18:09] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 2.82 ms
+[2026-05-31 15:18:10] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.14 ms
+[2026-05-31 15:18:10] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 5.85 ms
+[2026-05-31 15:18:10] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:18:10] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:18:10] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 6.08 ms
+[2026-05-31 15:18:10] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.89 ms
+[2026-05-31 15:18:17] GET /admin/parse | IP: ::1
+  → Выполнено за 609.85 ms
+[2026-05-31 15:18:19] GET /admin/news | IP: ::1
+  → Выполнено за 6.61 ms
+[2026-05-31 15:18:31] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 4.49 ms
+[2026-05-31 15:18:37] POST /admin/news/update/26 | IP: ::1
+[2026-05-31 15:18:38] GET /admin/news | IP: ::1
+  → Выполнено за 6.25 ms
+[2026-05-31 15:18:54] GET / | IP: ::1
+  → Выполнено за 5.52 ms
+[2026-05-31 15:18:54] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.21 ms
+[2026-05-31 15:18:54] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 10.15 ms
+[2026-05-31 15:18:54] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 5.33 ms
+[2026-05-31 15:18:54] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 15:18:54] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 15:18:56] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.86 ms
+[2026-05-31 15:18:56] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 5 ms
+[2026-05-31 15:18:56] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.31 ms
+[2026-05-31 15:18:56] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 3.3 ms
+[2026-05-31 15:18:56] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 2.79 ms
+[2026-05-31 15:18:56] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 3.4 ms
+[2026-05-31 15:18:56] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.85 ms
+[2026-05-31 15:18:56] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 12.29 ms
+[2026-05-31 15:18:56] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.69 ms
+[2026-05-31 15:18:56] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 15:18:56] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 15:18:56] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 4.23 ms
+[2026-05-31 15:18:57] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.33 ms
+[2026-05-31 15:18:57] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 15:18:57] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-31 15:18:57] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.29 ms
+[2026-05-31 15:18:57] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 15:18:57] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 15:18:57] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.1 ms
+[2026-05-31 15:18:57] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 15:18:57] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.45 ms
+[2026-05-31 15:18:57] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 4.23 ms
+[2026-05-31 15:18:57] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.14 ms
+[2026-05-31 15:18:57] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 15:18:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.44 ms
+[2026-05-31 15:18:58] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 5.09 ms
+[2026-05-31 15:18:58] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 15:18:58] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 2.92 ms
+[2026-05-31 15:18:58] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 2.63 ms
+[2026-05-31 15:18:58] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.85 ms
+[2026-05-31 15:19:01] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-31 15:19:01] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 5.2 ms
+[2026-05-31 15:19:01] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.18 ms
+[2026-05-31 15:19:01] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.72 ms
+[2026-05-31 15:19:01] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 15:19:01] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.91 ms
+[2026-05-31 15:19:02] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.54 ms
+[2026-05-31 15:19:02] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 15:19:02] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 5.06 ms
+[2026-05-31 15:19:02] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.13 ms
+[2026-05-31 15:19:02] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 15:19:02] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 2.91 ms
+[2026-05-31 15:19:05] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.95 ms
+[2026-05-31 15:19:06] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.9 ms
+[2026-05-31 15:19:06] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.36 ms
+[2026-05-31 15:19:06] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 15:19:06] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.95 ms
+[2026-05-31 15:19:06] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 4.54 ms
+[2026-05-31 15:19:06] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.97 ms
+[2026-05-31 15:19:06] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 3.33 ms
+[2026-05-31 15:19:08] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.16 ms
+[2026-05-31 15:19:08] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 5.64 ms
+[2026-05-31 15:19:08] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 15:19:08] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:08] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 5.6 ms
+[2026-05-31 15:19:08] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.76 ms
+[2026-05-31 15:19:08] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.92 ms
+[2026-05-31 15:19:09] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 2.53 ms
+[2026-05-31 15:19:11] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.23 ms
+[2026-05-31 15:19:11] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 15:19:11] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.88 ms
+[2026-05-31 15:19:11] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-31 15:19:11] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 15:19:11] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.74 ms
+[2026-05-31 15:19:13] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.79 ms
+[2026-05-31 15:19:13] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 5.88 ms
+[2026-05-31 15:19:13] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-31 15:19:13] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.7 ms
+[2026-05-31 15:19:15] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.36 ms
+[2026-05-31 15:19:15] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 6.64 ms
+[2026-05-31 15:19:15] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.05 ms
+[2026-05-31 15:19:15] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 5.61 ms
+[2026-05-31 15:19:15] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 15:19:15] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:19:15] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.77 ms
+[2026-05-31 15:19:15] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-31 15:19:15] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 15:19:15] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 2.75 ms
+[2026-05-31 15:19:16] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.5 ms
+[2026-05-31 15:19:16] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.65 ms
+[2026-05-31 15:19:16] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:16] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 15:19:16] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.33 ms
+[2026-05-31 15:19:16] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.53 ms
+[2026-05-31 15:19:17] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-31 15:19:17] GET /api/news/39/user-reactions | IP: ::1
+  → Выполнено за 5.08 ms
+[2026-05-31 15:19:17] GET /api/news/42/user-reactions | IP: ::1
+  → Выполнено за 4.06 ms
+[2026-05-31 15:19:17] GET /api/news/46/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 15:19:17] GET /api/news/53/user-reactions | IP: ::1
+  → Выполнено за 2.84 ms
+[2026-05-31 15:19:17] GET /api/news/68/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 15:19:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.09 ms
+[2026-05-31 15:19:19] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.6 ms
+[2026-05-31 15:19:19] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.29 ms
+[2026-05-31 15:19:19] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 7.15 ms
+[2026-05-31 15:19:19] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 15:19:19] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 15:19:19] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.87 ms
+[2026-05-31 15:19:19] GET /api/news/31/user-reactions | IP: ::1
+  → Выполнено за 5.26 ms
+[2026-05-31 15:19:19] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 5.13 ms
+[2026-05-31 15:19:19] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:19] GET /api/news/50/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 15:19:19] GET /api/news/47/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 15:19:22] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.1 ms
+[2026-05-31 15:19:22] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.5 ms
+[2026-05-31 15:19:22] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:19:22] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 15:19:22] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:22] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 15:19:23] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.31 ms
+[2026-05-31 15:19:23] GET /api/news/32/user-reactions | IP: ::1
+  → Выполнено за 2.92 ms
+[2026-05-31 15:19:23] GET /api/news/55/user-reactions | IP: ::1
+  → Выполнено за 2.82 ms
+[2026-05-31 15:19:23] GET /api/news/63/user-reactions | IP: ::1
+  → Выполнено за 2.8 ms
+[2026-05-31 15:19:23] GET /api/news/84/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 15:19:23] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.19 ms
+[2026-05-31 15:19:24] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.22 ms
+[2026-05-31 15:19:24] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 6.3 ms
+[2026-05-31 15:19:24] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.93 ms
+[2026-05-31 15:19:24] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.82 ms
+[2026-05-31 15:19:24] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 7.29 ms
+[2026-05-31 15:19:24] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.84 ms
+[2026-05-31 15:19:24] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.28 ms
+[2026-05-31 15:19:25] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.84 ms
+[2026-05-31 15:19:25] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 6.7 ms
+[2026-05-31 15:19:25] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 15:19:25] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.89 ms
+[2026-05-31 15:19:25] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.59 ms
+[2026-05-31 15:19:25] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.06 ms
+[2026-05-31 15:19:26] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.34 ms
+[2026-05-31 15:19:27] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.87 ms
+[2026-05-31 15:19:27] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.41 ms
+[2026-05-31 15:19:27] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 15:19:27] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.6 ms
+[2026-05-31 15:19:27] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 15:19:27] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.76 ms
+[2026-05-31 15:19:28] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.63 ms
+[2026-05-31 15:19:28] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.19 ms
+[2026-05-31 15:19:28] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 2.96 ms
+[2026-05-31 15:19:28] GET /api/news/43/user-reactions | IP: ::1
+  → Выполнено за 2.9 ms
+[2026-05-31 15:19:28] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.18 ms
+[2026-05-31 15:19:28] GET /api/news/81/user-reactions | IP: ::1
+  → Выполнено за 4.76 ms
+[2026-05-31 15:19:28] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.28 ms
+[2026-05-31 15:19:28] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.58 ms
+[2026-05-31 15:19:28] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.64 ms
+[2026-05-31 15:19:28] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 15:19:28] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 15:19:28] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.57 ms
+[2026-05-31 15:19:29] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-31 15:19:29] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:19:29] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5 ms
+[2026-05-31 15:19:29] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.95 ms
+[2026-05-31 15:19:29] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:29] GET /api/news/29/user-reactions | IP: ::1
+  → Выполнено за 3.37 ms
+[2026-05-31 15:19:30] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.13 ms
+[2026-05-31 15:19:30] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 2.71 ms
+[2026-05-31 15:19:30] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.59 ms
+[2026-05-31 15:19:31] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.3 ms
+[2026-05-31 15:19:31] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:31] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.73 ms
+[2026-05-31 15:19:31] POST /api/news/filter | IP: ::1
+  → Выполнено за 3.94 ms
+[2026-05-31 15:19:31] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.25 ms
+[2026-05-31 15:19:31] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.25 ms
+[2026-05-31 15:19:31] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.66 ms
+[2026-05-31 15:19:31] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 2.67 ms
+[2026-05-31 15:19:31] GET /api/news/29/user-reactions | IP: ::1
+  → Выполнено за 2.62 ms
+[2026-05-31 15:19:32] POST /api/news/filter | IP: ::1
+  → Выполнено за 4 ms
+[2026-05-31 15:19:32] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.07 ms
+[2026-05-31 15:19:32] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 6.93 ms
+[2026-05-31 15:19:32] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.95 ms
+[2026-05-31 15:19:32] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 15:19:32] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.81 ms
+[2026-05-31 15:19:33] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.27 ms
+[2026-05-31 15:19:33] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 7.37 ms
+[2026-05-31 15:19:33] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:19:34] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.68 ms
+[2026-05-31 15:19:34] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 2.78 ms
+[2026-05-31 15:19:34] GET /api/news/29/user-reactions | IP: ::1
+  → Выполнено за 2.61 ms
+[2026-05-31 15:19:34] POST /api/news/filter | IP: ::1
+  → Выполнено за 5 ms
+[2026-05-31 15:19:34] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-31 15:19:34] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 2.65 ms
+[2026-05-31 15:19:34] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 6.6 ms
+[2026-05-31 15:19:34] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.86 ms
+[2026-05-31 15:19:34] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 2.59 ms
+[2026-05-31 15:19:56] GET /admin/parse | IP: ::1
+  → Выполнено за 578.7 ms
+[2026-05-31 15:21:03] GET /admin/parse | IP: ::1
+  → Выполнено за 798.37 ms
+[2026-05-31 15:21:31] GET /admin/parse | IP: ::1
+  → Выполнено за 647.63 ms
+[2026-05-31 15:22:26] GET /admin/parse | IP: ::1
+  → Выполнено за 571.16 ms
+[2026-05-31 15:22:42] GET /admin/parse | IP: ::1
+  → Выполнено за 407.22 ms
+[2026-05-31 15:22:52] GET /news/23 | IP: ::1
+  → Выполнено за 48.36 ms
+[2026-05-31 15:22:52] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 11.63 ms
+[2026-05-31 15:22:53] GET / | IP: ::1
+  → Выполнено за 10.9 ms
+[2026-05-31 15:22:53] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 5.66 ms
+[2026-05-31 15:22:53] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 15:22:53] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 9.81 ms
+[2026-05-31 15:22:53] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 40.37 ms
+[2026-05-31 15:22:54] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 30.71 ms
+[2026-05-31 15:22:54] GET /news/24 | IP: ::1
+  → Выполнено за 31.38 ms
+[2026-05-31 15:22:54] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.05 ms
+[2026-05-31 15:22:55] GET / | IP: ::1
+  → Выполнено за 4.91 ms
+[2026-05-31 15:22:55] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 45.2 ms
+[2026-05-31 15:22:56] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 5.8 ms
+[2026-05-31 15:22:56] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.87 ms
+[2026-05-31 15:22:56] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.65 ms
+[2026-05-31 15:22:56] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 15:23:01] GET /search?q=tproger | IP: ::1
+  → Выполнено за 8.39 ms
+[2026-05-31 15:23:02] GET / | IP: ::1
+  → Выполнено за 17.12 ms
+[2026-05-31 15:23:02] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.43 ms
+[2026-05-31 15:23:02] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.92 ms
+[2026-05-31 15:23:03] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 2.99 ms
+[2026-05-31 15:23:03] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 4.52 ms
+[2026-05-31 15:23:03] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 15.24 ms
+[2026-05-31 15:23:04] GET /news/26 | IP: ::1
+  → Выполнено за 20.72 ms
+[2026-05-31 15:23:04] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.05 ms
+[2026-05-31 15:23:09] GET / | IP: ::1
+  → Выполнено за 11.01 ms
+[2026-05-31 15:23:09] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 10.16 ms
+[2026-05-31 15:23:09] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 15:23:09] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 4.32 ms
+[2026-05-31 15:23:09] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 11.42 ms
+[2026-05-31 15:23:09] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 14.5 ms
+[2026-05-31 15:23:11] GET /news/27 | IP: ::1
+  → Выполнено за 48.1 ms
+[2026-05-31 15:23:11] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 8.43 ms
+[2026-05-31 15:23:12] GET / | IP: ::1
+  → Выполнено за 6.08 ms
+[2026-05-31 15:23:12] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 29.21 ms
+[2026-05-31 15:23:13] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 7.68 ms
+[2026-05-31 15:23:13] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 28.95 ms
+[2026-05-31 15:23:13] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 61.73 ms
+[2026-05-31 15:23:13] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 15.97 ms
+[2026-05-31 15:23:14] GET /news/26 | IP: ::1
+  → Выполнено за 30.46 ms
+[2026-05-31 15:23:14] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 4.15 ms
+[2026-05-31 15:23:38] GET /search?q=Wine | IP: ::1
+  → Выполнено за 5.33 ms
+[2026-05-31 15:23:38] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 16.68 ms
+[2026-05-31 15:23:39] GET /news/44 | IP: ::1
+  → Выполнено за 19.75 ms
+[2026-05-31 15:23:40] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 7.03 ms
+[2026-05-31 15:23:41] GET /search?q=Wine | IP: ::1
+  → Выполнено за 9.52 ms
+[2026-05-31 15:23:41] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 19.95 ms
+[2026-05-31 15:23:42] GET / | IP: ::1
+  → Выполнено за 10.59 ms
+[2026-05-31 15:23:42] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 9.43 ms
+[2026-05-31 15:23:43] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 4.5 ms
+[2026-05-31 15:23:43] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 8.09 ms
+[2026-05-31 15:23:43] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 13.62 ms
+[2026-05-31 15:23:43] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 74.7 ms
+[2026-05-31 15:23:44] GET /news/25 | IP: ::1
+  → Выполнено за 28.47 ms
+[2026-05-31 15:23:44] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.45 ms
+[2026-05-31 15:23:46] GET / | IP: ::1
+  → Выполнено за 9.53 ms
+[2026-05-31 15:23:46] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 11.37 ms
+[2026-05-31 15:23:46] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 47.91 ms
+[2026-05-31 15:23:46] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 8.91 ms
+[2026-05-31 15:23:46] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 17.86 ms
+[2026-05-31 15:23:46] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 12.32 ms
+[2026-05-31 15:23:47] GET /news/27 | IP: ::1
+  → Выполнено за 55.01 ms
+[2026-05-31 15:23:47] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 11.66 ms
+[2026-05-31 15:23:48] GET / | IP: ::1
+  → Выполнено за 14.25 ms
+[2026-05-31 15:23:49] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 12.33 ms
+[2026-05-31 15:23:49] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 17.34 ms
+[2026-05-31 15:23:49] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 7.87 ms
+[2026-05-31 15:23:49] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 66.8 ms
+[2026-05-31 15:23:49] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 22 ms
+[2026-05-31 15:23:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.79 ms
+[2026-05-31 15:23:51] GET /api/news/28/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 15:23:51] GET /api/news/29/user-reactions | IP: ::1
+  → Выполнено за 4.24 ms
+[2026-05-31 15:23:51] GET /api/news/30/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-31 15:23:51] GET /api/news/31/user-reactions | IP: ::1
+  → Выполнено за 4.8 ms
+[2026-05-31 15:23:51] GET /api/news/32/user-reactions | IP: ::1
+  → Выполнено за 2.7 ms
+[2026-05-31 15:23:52] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.47 ms
+[2026-05-31 15:23:52] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 10.54 ms
+[2026-05-31 15:23:52] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 15.37 ms
+[2026-05-31 15:23:52] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 4.16 ms
+[2026-05-31 15:23:52] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 36.96 ms
+[2026-05-31 15:23:52] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.46 ms
+[2026-05-31 15:23:53] GET /news/37 | IP: ::1
+  → Выполнено за 11.04 ms
+[2026-05-31 15:23:53] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 5.92 ms
+[2026-05-31 15:23:54] GET / | IP: ::1
+  → Выполнено за 11.31 ms
+[2026-05-31 15:23:54] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 28.19 ms
+[2026-05-31 15:23:54] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 16.07 ms
+[2026-05-31 15:23:55] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 4.34 ms
+[2026-05-31 15:23:55] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.7 ms
+[2026-05-31 15:23:55] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 4.63 ms
+[2026-05-31 15:23:55] GET /news/26 | IP: ::1
+  → Выполнено за 22.77 ms
+[2026-05-31 15:23:55] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 6.34 ms
+[2026-05-31 15:25:14] GET /admin/news | IP: ::1
+  → Выполнено за 8.74 ms
+[2026-05-31 15:25:35] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 6.4 ms
+[2026-05-31 15:30:01] GET /admin/news | IP: ::1
+  → Выполнено за 32.22 ms
+[2026-05-31 15:30:04] GET /admin/news/edit/23 | IP: ::1
+  → Выполнено за 78.04 ms
+[2026-05-31 15:30:07] GET /admin/news | IP: ::1
+  → Выполнено за 45.67 ms
+[2026-05-31 15:30:12] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 3.88 ms
+[2026-05-31 15:30:16] GET /admin/news | IP: ::1
+  → Выполнено за 5.89 ms
+[2026-05-31 15:30:19] GET / | IP: ::1
+  → Выполнено за 5.89 ms
+[2026-05-31 15:30:19] GET /api/news/23/user-reactions | IP: ::1
+  → Выполнено за 3.24 ms
+[2026-05-31 15:30:19] GET /api/news/24/user-reactions | IP: ::1
+  → Выполнено за 3.31 ms
+[2026-05-31 15:30:19] GET /api/news/25/user-reactions | IP: ::1
+  → Выполнено за 3.58 ms
+[2026-05-31 15:30:19] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 7.11 ms
+[2026-05-31 15:30:19] GET /api/news/27/user-reactions | IP: ::1
+  → Выполнено за 6.13 ms
+[2026-05-31 15:30:27] GET / | IP: ::1
+  → Выполнено за 62.56 ms
+[2026-05-31 15:30:28] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 4.22 ms
+[2026-05-31 15:30:28] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.67 ms
+[2026-05-31 15:30:28] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 4.77 ms
+[2026-05-31 15:30:33] GET /admin/news | IP: ::1
+  → Выполнено за 4.1 ms
+[2026-05-31 15:30:33] GET /admin/news | IP: ::1
+  → Выполнено за 3.19 ms
+[2026-05-31 15:30:35] GET /admin/parse | IP: ::1
+  → Выполнено за 1128.04 ms
+[2026-05-31 15:31:24] GET /admin/parse | IP: ::1
+  → Выполнено за 1064.38 ms
+[2026-05-31 15:31:39] GET /admin/parse | IP: ::1
+  → Выполнено за 884.05 ms
+[2026-05-31 15:31:44] GET /admin/parse | IP: ::1
+  → Выполнено за 802.53 ms
+[2026-05-31 15:31:48] GET /admin/news | IP: ::1
+  → Выполнено за 7.09 ms
+[2026-05-31 15:31:53] GET / | IP: ::1
+  → Выполнено за 10.38 ms
+[2026-05-31 15:31:53] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 14 ms
+[2026-05-31 15:31:53] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 14.1 ms
+[2026-05-31 15:31:53] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 7.51 ms
+[2026-05-31 15:31:53] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 6.99 ms
+[2026-05-31 15:31:54] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 14.41 ms
+[2026-05-31 15:31:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.55 ms
+[2026-05-31 15:31:58] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.96 ms
+[2026-05-31 15:31:58] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 4.48 ms
+[2026-05-31 15:31:58] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 19.21 ms
+[2026-05-31 15:31:58] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 52.03 ms
+[2026-05-31 15:31:58] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 3.82 ms
+[2026-05-31 15:32:02] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.05 ms
+[2026-05-31 15:32:02] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 3.02 ms
+[2026-05-31 15:32:02] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 2.55 ms
+[2026-05-31 15:32:02] GET /api/news/16/user-reactions | IP: ::1
+  → Выполнено за 2.89 ms
+[2026-05-31 15:32:02] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 2.58 ms
+[2026-05-31 15:32:02] GET /api/news/18/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-31 15:32:40] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 4.6 ms
+[2026-05-31 15:32:45] GET /admin/news | IP: ::1
+  → Выполнено за 5.91 ms
+[2026-05-31 15:32:52] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 3.93 ms
+[2026-05-31 15:32:57] POST /admin/news/update/26 | IP: ::1
+[2026-05-31 15:32:58] GET /admin/news | IP: ::1
+  → Выполнено за 6.71 ms
+[2026-05-31 15:33:04] GET /admin/news/edit/26 | IP: ::1
+  → Выполнено за 4.74 ms
+[2026-05-31 15:33:06] POST /admin/news/update/26 | IP: ::1
+[2026-05-31 15:33:06] GET /admin/news | IP: ::1
+  → Выполнено за 7.79 ms
+[2026-05-31 15:33:10] GET / | IP: ::1
+  → Выполнено за 5.41 ms
+[2026-05-31 15:33:10] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 16.02 ms
+[2026-05-31 15:33:10] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 6.58 ms
+[2026-05-31 15:33:10] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 5.96 ms
+[2026-05-31 15:33:10] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 4.68 ms
+[2026-05-31 15:33:10] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 7.55 ms
+[2026-05-31 15:33:13] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.7 ms
+[2026-05-31 15:33:13] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 5.05 ms
+[2026-05-31 15:33:13] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 2.77 ms
+[2026-05-31 15:33:13] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 2.6 ms
+[2026-05-31 15:33:15] GET /news/26 | IP: ::1
+  → Выполнено за 42.07 ms
+[2026-05-31 15:33:15] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 3.91 ms
+[2026-05-31 15:33:18] GET / | IP: ::1
+  → Выполнено за 5.3 ms
+[2026-05-31 15:33:18] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 5.32 ms
+[2026-05-31 15:33:18] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 6.61 ms
+[2026-05-31 15:33:18] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 8.22 ms
+[2026-05-31 15:33:18] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 18.94 ms
+[2026-05-31 15:33:18] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.66 ms
+[2026-05-31 15:33:18] POST /api/news/filter | IP: ::1
+  → Выполнено за 7.36 ms
+[2026-05-31 15:33:19] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 7.89 ms
+[2026-05-31 15:33:19] GET /api/news/26/user-reactions | IP: ::1
+  → Выполнено за 10.81 ms
+[2026-05-31 15:33:19] GET /api/news/86/user-reactions | IP: ::1
+  → Выполнено за 7.3 ms
+[2026-05-31 17:38:57] GET / | IP: ::1
+  → Выполнено за 94.1 ms
+[2026-05-31 17:39:04] GET / | IP: ::1
+  → Выполнено за 8.25 ms
+[2026-05-31 17:40:51] GET /admin/news | IP: ::1
+  → Выполнено за 19.95 ms
+[2026-05-31 17:40:51] GET /admin/news | IP: ::1
+  → Выполнено за 4.38 ms
+[2026-05-31 17:42:37] GET / | IP: ::1
+  → Выполнено за 9.15 ms
+[2026-05-31 17:42:42] GET /admin/parse | IP: ::1
+  → Выполнено за 1155.19 ms
+[2026-05-31 17:42:47] GET / | IP: ::1
+  → Выполнено за 34.49 ms
+[2026-05-31 17:42:48] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 7.3 ms
+[2026-05-31 17:42:48] GET /api/news/42/user-reactions | IP: ::1
+  → Выполнено за 7.8 ms
+[2026-05-31 17:42:48] GET /api/news/43/user-reactions | IP: ::1
+  → Выполнено за 13.56 ms
+[2026-05-31 17:42:48] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 4.13 ms
+[2026-05-31 17:42:48] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 4.17 ms
+[2026-05-31 17:51:35] GET / | IP: ::1
+  → Выполнено за 27.82 ms
+[2026-05-31 17:51:35] GET /api/news/41/user-reactions | IP: ::1
+  → Выполнено за 5.46 ms
+[2026-05-31 17:51:35] GET /api/news/42/user-reactions | IP: ::1
+  → Выполнено за 28.19 ms
+[2026-05-31 17:51:35] GET /api/news/43/user-reactions | IP: ::1
+  → Выполнено за 4.33 ms
+[2026-05-31 17:51:35] GET /api/news/44/user-reactions | IP: ::1
+  → Выполнено за 3.79 ms
+[2026-05-31 17:51:35] GET /api/news/45/user-reactions | IP: ::1
+  → Выполнено за 3.71 ms
+[2026-05-31 17:51:44] GET / | IP: ::1
+  → Выполнено за 59.87 ms
+[2026-05-31 17:51:44] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 6.28 ms
+[2026-05-31 17:51:45] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.63 ms
+[2026-05-31 17:51:45] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 5.22 ms
+[2026-05-31 17:51:48] GET /admin/parse | IP: ::1
+  → Выполнено за 1157.9 ms
+[2026-05-31 17:51:51] GET /admin/news | IP: ::1
+  → Выполнено за 17.85 ms
+[2026-05-31 17:51:54] GET / | IP: ::1
+  → Выполнено за 6.34 ms
+[2026-05-31 17:51:54] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.73 ms
+[2026-05-31 17:51:54] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 3.71 ms
+[2026-05-31 17:51:54] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.05 ms
+[2026-05-31 17:51:54] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 3.04 ms
+[2026-05-31 17:51:54] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 3.77 ms
+[2026-05-31 17:51:58] POST /api/news/filter | IP: ::1
+  → Выполнено за 37.09 ms
+[2026-05-31 17:51:59] GET /api/news/9/user-reactions | IP: ::1
+  → Выполнено за 3.79 ms
+[2026-05-31 17:51:59] GET /api/news/10/user-reactions | IP: ::1
+  → Выполнено за 6.87 ms
+[2026-05-31 17:51:59] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 11.97 ms
+[2026-05-31 17:51:59] GET /api/news/12/user-reactions | IP: ::1
+  → Выполнено за 17.49 ms
+[2026-05-31 17:51:59] GET /api/news/13/user-reactions | IP: ::1
+  → Выполнено за 3.61 ms
+[2026-05-31 17:52:00] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.79 ms
+[2026-05-31 17:52:00] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 5.37 ms
+[2026-05-31 17:52:00] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 2.97 ms
+[2026-05-31 17:52:00] GET /api/news/16/user-reactions | IP: ::1
+  → Выполнено за 6.1 ms
+[2026-05-31 17:52:00] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 7.88 ms
+[2026-05-31 17:52:00] GET /api/news/18/user-reactions | IP: ::1
+  → Выполнено за 3.56 ms
+[2026-05-31 17:52:01] GET /news/18 | IP: ::1
+  → Выполнено за 17.65 ms
+[2026-05-31 17:52:01] GET /api/news/18/user-reactions | IP: ::1
+  → Выполнено за 41.86 ms
+[2026-05-31 17:52:02] GET / | IP: ::1
+  → Выполнено за 16.58 ms
+[2026-05-31 17:52:02] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 11.42 ms
+[2026-05-31 17:52:03] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 11.12 ms
+[2026-05-31 17:52:03] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 19.35 ms
+[2026-05-31 17:52:03] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 8.76 ms
+[2026-05-31 17:52:03] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 5.54 ms
+[2026-05-31 17:52:19] GET /logout | IP: ::1
+[2026-05-31 17:52:19] GET /login | IP: ::1
+  → Выполнено за 2.28 ms
+[2026-05-31 17:52:24] POST /login | IP: ::1
+  → Выполнено за 12.34 ms
+[2026-05-31 17:52:26] GET /register | IP: ::1
+  → Выполнено за 1.7 ms
+[2026-05-31 17:52:28] POST /register | IP: ::1
+[2026-05-31 17:52:29] GET / | IP: ::1
+  → Выполнено за 6.84 ms
+[2026-05-31 17:52:29] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.21 ms
+[2026-05-31 17:52:29] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 11.24 ms
+[2026-05-31 17:52:29] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 11.3 ms
+[2026-05-31 17:52:29] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 5.75 ms
+[2026-05-31 17:52:29] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.19 ms
+[2026-05-31 17:52:32] GET /admin/news | IP: ::1
+[2026-05-31 17:52:32] GET / | IP: ::1
+  → Выполнено за 7.49 ms
+[2026-05-31 17:52:32] GET /api/news/4/user-reactions | IP: ::1
+  → Выполнено за 3.78 ms
+[2026-05-31 17:52:32] GET /api/news/5/user-reactions | IP: ::1
+  → Выполнено за 5.09 ms
+[2026-05-31 17:52:32] GET /api/news/6/user-reactions | IP: ::1
+  → Выполнено за 4.74 ms
+[2026-05-31 17:52:32] GET /api/news/7/user-reactions | IP: ::1
+  → Выполнено за 7.49 ms
+[2026-05-31 17:52:32] GET /api/news/8/user-reactions | IP: ::1
+  → Выполнено за 4.01 ms
+[2026-05-31 17:55:07] GET / | IP: ::1
+  → Выполнено за 50.26 ms
+[2026-05-31 17:55:07] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 8.32 ms
+[2026-05-31 17:55:07] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 3.64 ms
+[2026-05-31 17:55:07] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.31 ms
+[2026-05-31 17:55:15] GET /admin/news | IP: ::1
+[2026-05-31 17:55:15] GET / | IP: ::1
+  → Выполнено за 6.64 ms
+[2026-05-31 17:55:15] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 4.51 ms
+[2026-05-31 17:55:15] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.06 ms
+[2026-05-31 17:55:15] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.23 ms
+[2026-05-31 17:55:21] GET / | IP: ::1
+  → Выполнено за 10.68 ms
+[2026-05-31 17:55:21] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 22.94 ms
+[2026-05-31 17:55:21] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 5.01 ms
+[2026-05-31 17:55:21] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.91 ms
+[2026-05-31 17:55:24] GET /admin/news | IP: ::1
+[2026-05-31 17:55:24] GET / | IP: ::1
+  → Выполнено за 8.62 ms
+[2026-05-31 17:55:24] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 3.1 ms
+[2026-05-31 17:55:24] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 5.57 ms
+[2026-05-31 17:55:25] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 3.88 ms
+[2026-05-31 17:55:26] GET /admin/news | IP: ::1
+[2026-05-31 17:55:26] GET / | IP: ::1
+  → Выполнено за 5.59 ms
+[2026-05-31 17:55:26] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 5.13 ms
+[2026-05-31 17:55:26] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 6.01 ms
+[2026-05-31 17:55:26] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.06 ms
+[2026-05-31 17:55:31] GET /logout | IP: ::1
+[2026-05-31 17:55:31] GET /login | IP: ::1
+  → Выполнено за 1.76 ms
+[2026-05-31 17:55:36] POST /login | IP: ::1
+[2026-05-31 17:55:37] GET / | IP: ::1
+  → Выполнено за 8.57 ms
+[2026-05-31 17:55:37] GET /api/news/1/user-reactions | IP: ::1
+  → Выполнено за 49.18 ms
+[2026-05-31 17:55:37] GET /api/news/3/user-reactions | IP: ::1
+  → Выполнено за 5.84 ms
+[2026-05-31 17:55:37] GET /api/news/2/user-reactions | IP: ::1
+  → Выполнено за 4.42 ms
+[2026-05-31 17:55:39] GET /admin/news | IP: ::1
+  → Выполнено за 7.32 ms
+[2026-05-31 17:55:41] GET /admin/news | IP: ::1
+  → Выполнено за 12.28 ms
+[2026-05-31 17:55:46] GET /admin/parse | IP: ::1
+  → Выполнено за 976.03 ms
+[2026-05-31 17:55:49] GET /admin/news | IP: ::1
+  → Выполнено за 22.64 ms
+[2026-05-31 17:56:12] GET /admin/news/edit/62 | IP: ::1
+  → Выполнено за 5.44 ms
+[2026-05-31 17:56:15] GET /admin/news | IP: ::1
+  → Выполнено за 17.37 ms
+[2026-05-31 17:56:19] GET /admin/news/edit/33 | IP: ::1
+  → Выполнено за 4.86 ms
+[2026-05-31 17:56:38] POST /admin/news/update/33 | IP: ::1
+[2026-05-31 17:56:38] GET /admin/news | IP: ::1
+  → Выполнено за 12.16 ms
+[2026-05-31 17:56:45] GET /search?q=%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85 | IP: ::1
+  → Выполнено за 10.93 ms
+[2026-05-31 17:56:45] GET /api/news//user-reactions | IP: ::1
+  → Выполнено за 152.01 ms
+[2026-05-31 17:56:48] GET / | IP: ::1
+  → Выполнено за 9.88 ms
+[2026-05-31 17:56:48] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 8.06 ms
+[2026-05-31 17:56:48] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 4.21 ms
+[2026-05-31 17:56:48] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 5.08 ms
+[2026-05-31 17:56:48] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 68.72 ms
+[2026-05-31 17:56:48] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 7.58 ms
+[2026-05-31 17:56:49] POST /api/news/filter | IP: ::1
+  → Выполнено за 10.64 ms
+[2026-05-31 17:56:49] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 5.27 ms
+[2026-05-31 17:56:49] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.66 ms
+[2026-05-31 17:56:49] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 7.29 ms
+[2026-05-31 17:56:50] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 3.56 ms
+[2026-05-31 17:56:50] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 3.21 ms
+[2026-05-31 17:56:50] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.65 ms
+[2026-05-31 17:56:50] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 37.26 ms
+[2026-05-31 17:56:50] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 8.68 ms
+[2026-05-31 17:56:50] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 3.83 ms
+[2026-05-31 17:56:50] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.03 ms
+[2026-05-31 17:56:51] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.32 ms
+[2026-05-31 17:56:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.29 ms
+[2026-05-31 17:56:51] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 10.33 ms
+[2026-05-31 17:56:51] GET /api/news/48/user-reactions | IP: ::1
+  → Выполнено за 3.35 ms
+[2026-05-31 17:56:51] GET /api/news/91/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-31 17:56:51] GET /api/news/15/user-reactions | IP: ::1
+  → Выполнено за 4.04 ms
+[2026-05-31 17:56:51] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.8 ms
+[2026-05-31 17:56:51] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 3.62 ms
+[2026-05-31 17:56:51] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 4.58 ms
+[2026-05-31 17:56:52] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 7.71 ms
+[2026-05-31 17:56:52] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.32 ms
+[2026-05-31 17:56:52] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.23 ms
+[2026-05-31 17:56:52] POST /api/news/filter | IP: ::1
+  → Выполнено за 5.42 ms
+[2026-05-31 17:56:52] GET /api/news/38/user-reactions | IP: ::1
+  → Выполнено за 3.97 ms
+[2026-05-31 17:56:52] GET /api/news/56/user-reactions | IP: ::1
+  → Выполнено за 3.17 ms
+[2026-05-31 17:56:52] GET /api/news/76/user-reactions | IP: ::1
+  → Выполнено за 3.1 ms
+[2026-05-31 17:56:52] GET /api/news/14/user-reactions | IP: ::1
+  → Выполнено за 5.06 ms
+[2026-05-31 17:56:52] GET /api/news/17/user-reactions | IP: ::1
+  → Выполнено за 3.17 ms
+[2026-05-31 17:56:55] POST /api/news/filter | IP: ::1
+  → Выполнено за 12.51 ms
+[2026-05-31 17:56:55] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 6.05 ms
+[2026-05-31 17:56:55] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 2.99 ms
+[2026-05-31 17:56:55] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 3.2 ms
+[2026-05-31 17:56:55] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 3.31 ms
+[2026-05-31 17:56:55] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 3.14 ms
+[2026-05-31 17:56:56] POST /api/news/filter | IP: ::1
+  → Выполнено за 4.17 ms
+[2026-05-31 17:56:56] GET /api/news/11/user-reactions | IP: ::1
+  → Выполнено за 9.19 ms
+[2026-05-31 17:56:57] POST /api/news/filter | IP: ::1
+  → Выполнено за 6.06 ms
+[2026-05-31 17:56:57] GET /api/news/33/user-reactions | IP: ::1
+  → Выполнено за 3.74 ms
+[2026-05-31 17:56:57] GET /api/news/34/user-reactions | IP: ::1
+  → Выполнено за 3.09 ms
+[2026-05-31 17:56:57] GET /api/news/35/user-reactions | IP: ::1
+  → Выполнено за 4.07 ms
+[2026-05-31 17:56:57] GET /api/news/36/user-reactions | IP: ::1
+  → Выполнено за 30.18 ms
+[2026-05-31 17:56:57] GET /api/news/37/user-reactions | IP: ::1
+  → Выполнено за 8.91 ms
