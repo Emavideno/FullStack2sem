@@ -14,8 +14,13 @@ class News
     private string $sourceUrl = '';
     private int $views = 0;
 
-    public function __construct(?int $categoryId, string $title, string $excerpt, string $content, string $sourceUrl = '')
-    {
+    public function __construct(
+        ?int $categoryId,
+        string $title,
+        string $excerpt,
+        string $content,
+        string $sourceUrl = ''
+    ) {
         $this->categoryId = $categoryId;
         $this->title = $title;
         $this->excerpt = $excerpt;
@@ -146,14 +151,20 @@ class News
         return $stmt->execute([$this->id]);
     }
 
-    public static function update(int $id, int $categoryId, string $title, string $excerpt, string $content, string $sourceUrl = ''): bool
-    {
+    public static function update(
+        int $id,
+        int $categoryId,
+        string $title,
+        string $excerpt,
+        string $content,
+        string $sourceUrl = ''
+    ): bool {
         $db = Database::getConnection();
         $stmt = $db->prepare("
-            UPDATE news 
-            SET category_id = ?, title = ?, excerpt = ?, content = ?, source_url = ?
-            WHERE id = ?
-        ");
+        UPDATE news 
+        SET category_id = ?, title = ?, excerpt = ?, content = ?, source_url = ?
+        WHERE id = ?
+    ");
         return $stmt->execute([$categoryId, $title, $excerpt, $content, $sourceUrl, $id]);
     }
 

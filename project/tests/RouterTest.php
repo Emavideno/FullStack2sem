@@ -67,7 +67,9 @@ class RouterTest extends TestCase
     public function testDispatchWithInvalidRouteReturns404(): void
     {
         $router = new Router('GET', '/invalid-route-that-does-not-exist');
+        ob_start();
         $response = $router->dispatch();
+        ob_end_clean();
 
         $this->assertEquals(404, $response->getStatusCode());
     }

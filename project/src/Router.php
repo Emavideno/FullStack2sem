@@ -46,7 +46,6 @@ class Router
                     /** @var Route $route */
                     $route = $attribute->newInstance();
 
-                    // Преобразуем /news/{id} в регулярное выражение
                     $pattern = preg_replace('/\{([a-z]+)\}/', '(?P<$1>[^/]+)', $route->path);
                     $pattern = '#^' . $pattern . '$#';
 
@@ -122,7 +121,7 @@ class Router
             ]);
         }
 
-        echo $message;
+        // echo $message;
         return new \Nyholm\Psr7\Response($code, ['Content-Type' => 'text/html'], $message);
     }
 
