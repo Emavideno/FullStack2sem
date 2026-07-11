@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.5/phpunit.xsd"
+         bootstrap="tests/bootstrap.php"
+         colors="true"
+         cacheDirectory=".phpunit.cache"
+         displayDetailsOnTestsThatTriggerWarnings="true"
+         displayDetailsOnPhpunitDeprecations="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="DEBUG" value="false"/>
+    </php>
+    <coverage>
+        <report>
+            <html outputDirectory="reports/coverage"/>
+            <text outputFile="reports/coverage.txt"/>
+        </report>
+    </coverage>
+    <source>
+        <include>
+            <directory suffix=".php">src</directory>
+        </include>
+        <exclude>
+            <directory suffix=".php">src/Controllers</directory>
+            <directory suffix=".php">src/Console</directory>
+            <directory suffix=".php">src/Database</directory>
+            <directory suffix=".php">src/Logger</directory>
+            <directory suffix=".php">src/Middleware</directory>
+            <directory suffix=".php">src/Validation</directory>
+            
+            <file>src/AbstractController.php</file>
+            <file>src/Route.php</file>
+            <file>src/Router.php</file>
+            <file>src/Models/ApiUpdate.php</file>
+            <file>src/Services/CountryApiService.php</file>
+        </exclude>
+    </source>
+</phpunit>

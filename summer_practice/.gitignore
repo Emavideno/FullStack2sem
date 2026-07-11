@@ -1,0 +1,17 @@
+vendor/
+composer.lock
+composer.phar
+.env
+*.log
+*.db
+*.sqlite
+logs/
+reports/
+.phpunit.result.cache
+.phpunit.cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
