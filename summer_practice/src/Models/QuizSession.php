@@ -90,7 +90,7 @@ class QuizSession
         JOIN users u ON qs.user_id = u.id
         JOIN quiz_questions q ON qs.question_id = q.id
         WHERE qs.is_correct IS NOT NULL
-          AND u.is_blocked = 0  -- Исключаем заблокированных
+          AND u.is_blocked = 0
     ";
 
         $params = [];

@@ -9,7 +9,7 @@ class CleanHistoryCommand
 {
     public function execute(array $args = []): void
     {
-        $days = $args[0] ?? 30;
+        $days = $args[0] ?? 1;
         $days = (int) $days;
 
         echo "Cleaning quiz history older than {$days} days...\n\n";

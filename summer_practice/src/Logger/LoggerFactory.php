@@ -16,13 +16,13 @@ class LoggerFactory
             self::$logger = new Logger($channel);
 
             $logFile = __DIR__ . '/../../logs/app.log';
-            
+
             // Проверяем, что папка существует
             $logDir = dirname($logFile);
             if (!is_dir($logDir)) {
                 mkdir($logDir, 0777, true);
             }
-            
+
             // Логируем ВСЁ в режиме отладки
             $debug = $_ENV['DEBUG'] ?? false;
             if ($debug) {
